@@ -15,7 +15,11 @@
  - Computer Vision 👀
  - Large Language Models 🦜
  
- 🌱 **What I am currently learning ?** ▶️ *Mastering the ancient art of <u>inner peace</u> in this data intensive world, with the patience of [Master Oogway](https://universalstudios.fandom.com/wiki/Oogway)* ⛩️🐢<br>
+ 🌱 **What I am currently learning ?** ▶️ *Mastering the ancient art of <u>inner peace</u>, with the patience of [Master Oogway](https://universalstudios.fandom.com/wiki/Oogway)* ⛩️🐢<br>
+
+⚡ **A Fun fact** ▶️ *Sleep and Coffee - both hate me*👻<br>
+
+😄 **Pronouns** ▶️ *He/Him/His* <br>
 
 
  
@@ -26,11 +30,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... ❌
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...❌
 -->
