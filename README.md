@@ -24,8 +24,8 @@
 ⚙️ **What tools and skills have I explored so far ?** 🔻<br>
 <table>
 	<tr>
-		<td><img src=https://img.icons8.com/?size=100&id=40670&format=png&color=000000 alt="C Programming" width=60"/></td>
-		<td><img src=https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png alt="C++ Programming" width=45"/></td>
+		<td><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C Programming" width=60"/></td>
+<td><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Programming" width=45"/></td>
 		<td><img src = "https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python Programming" width="60"></td>
 		<td><img src = "https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000" alt="R Project" width="60"></td>
 		<td><img src = "https://img.icons8.com/?size=100&id=62398&format=png&color=000000" alt="MATLAB" width="60"></td>
