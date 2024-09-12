@@ -1,8 +1,30 @@
-## Hello GitHubians 👋
+## Hello, GitHubians 👋 This is Soubhik Sinha
 
+<br>
+<br>
+
+### A bit about myself🔻<br><br>
+
+🤔 **Who I am ?** ▶️ Graduate Student, pursuing **MS in CSE (spec. in AI)** @ [University at Buffalo - SUNY](https://www.buffalo.edu/)<br>
+
+🏢 **What-n-Where I am working now ?** ▶️ Graduate Teaching Assistant (Grader) : CSE 676 - Deep Learning *(Under the supervision of [Prof. Changyou Chen](https://www.linkedin.com/in/changyou-chen-945a3537/))*<br>
+
+💥 **What I am passionate about ?** 🔻
+
+ - Machine Learning 🖥️
+ - Deep Learning 🧠
+ - Natural Language Processing [**ENG/हिन्दी➡️💻➡️°●⁕⁂⏒⨀☠️**]
+ - Computer Vision 👀
+ - Large Language Models 🦜
+ 
+ 🌱 **What I am currently learning ?** ▶️ *Mastering the ancient art of <u>inner peace</u> in this data intensive world, with the patience of [Master Oogway](https://universalstudios.fandom.com/wiki/Oogway)* ⛩️🐢<br>
+
+
+ 
+
+
+ 
 <!--
-**sricks404/sricks404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
