@@ -1,7 +1,5 @@
 ## Hello, GitHubians 👋 This is Soubhik Sinha
 
-<br>
-<br>
 
 ### A bit about myself🔻<br><br>
 
