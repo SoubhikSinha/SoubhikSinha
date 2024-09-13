@@ -16,6 +16,8 @@
  - Large Language Models 🦜
  
  🌱 **What I am currently learning ?** ▶️ *Mastering the ancient art of <u>inner peace</u>, with the patience of [Master Oogway](https://universalstudios.fandom.com/wiki/Oogway)* ⛩️🐢<br>
+ 
+![Oogway - Bug](https://github.com/sricks404/sricks404/blob/main/Oogway%20Bug.gif)
 
 ⚡ **A Fun fact** ▶️ *Sleep and Coffee - both hate me*👻<br>
 
