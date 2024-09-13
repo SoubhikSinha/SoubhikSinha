@@ -55,6 +55,26 @@
 	   <td><img src = "https://hackr.io/tutorials/learn-tensorflow/og_image" alt="Tensorflow" width="60"></td>
 	   <td><img src = "https://logowik.com/content/uploads/images/cassandra4070.logowik.com.webp" alt="Cassandra" width="60"></td>
    </tr>
+   <tr>
+	   <td><img src = "https://i0.wp.com/dbaontap.com/wp-content/uploads/2015/11/json-logo.png?fit=690%2C330&ssl=1" alt="JSON" width="60"></td>
+	   <td><img src = "https://miro.medium.com/v2/resize:fit:394/1*Z_vXwV0SPudOAdlZnoAkWA.png" alt="NVIDIA CUDA" width="60"></td>
+	   <td><img src = "https://w7.pngwing.com/pngs/503/133/png-transparent-ubuntu-plain-logo-icon.png" alt="Ubuntu" width="60"></td>
+	   <td><img src = "https://static-00.iconduck.com/assets.00/linux-icon-2048x2048-sy06t4un.png" alt="Linux" width="60"></td>
+	   <td><img src = "https://banner2.cleanpng.com/20180811/ie/16355b638e87610c641904bdaa685410.webp" alt="Hadoop" width="60"></td>
+	   <td><img src = "https://pbs.twimg.com/profile_images/1813965160702451712/yXV1vRhr_400x400.jpg" alt="PyTorch" width="60"></td>
+   </tr>
+   <tr>
+	   <td><img src = "https://i0.wp.com/begincodingnow.com/wp-content/uploads/2023/08/colab_logo.png?fit=260%2C160&ssl=1" alt="Google Colab" width="60"></td>
+	   <td><img src = "https://w7.pngwing.com/pngs/1/687/png-transparent-apache-spark-apache-http-server-scala-apache-software-foundation-data-processing-others-miscellaneous-text-orange.png" alt="Apache Spark" width="60"></td>
+	   <td><img src = "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" width="60"></td>
+	   <td><img src = "https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png" alt="MySQL" width="60"></td>
+	   <td><img src = "https://numfocus.org/wp-content/uploads/2016/07/jupyter-logo-300.png" alt="Jupyter" width="60"></td>
+	   <td><img src = "https://i0.wp.com/teech.com.br/wp-content/uploads/2020/01/VsCode.png?fit=512%2C512" alt="Jupyter" width="60"></td>
+   </tr>
+   <tr>
+	   <td><img src = "https://w7.pngwing.com/pngs/801/880/png-transparent-rstudio-macos-r-blue-text-trademark.png" alt="RStudio" width="60"></td>
+	   <td><img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUiNwNvWfATiDCwOeYGDWDbIauxNSjZJHEdJKkb9dH3_dk9e8fRbk_K3z8iKuy_HkNUzfSu7S9V2fO_T6vWEF6wVhOPbHyTzvrlEUKVP649ngKDHReYCs77uVUFK-kSTpEekq8T6b-Mqjj/s1600/code+block+logo.jpg" alt="CodeBlocks" width="60"></td>
+   </tr>
 </table>
 
  
