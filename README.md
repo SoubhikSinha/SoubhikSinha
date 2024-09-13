@@ -11,7 +11,7 @@
 
  - Machine Learning 🖥️
  - Deep Learning 🧠
- - Natural Language Processing [**ENG/हिन्दी➡️💻➡️°●⁕⁂⏒⨀☠️**]
+ - Natural Language Processing [**ENG/हिन्दी/বাংলা➡️💻➡️°●⁕⁂⏒⨀☠️**]
  - Computer Vision 👀
  - Large Language Models 🦜
  
