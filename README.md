@@ -19,6 +19,8 @@
  
 <img src="https://github.com/sricks404/sricks404/blob/main/Oogway%20Bug.gif" alt="Oogway - Bug" width="250" height="auto">
 
+<br>
+
 ⚡ **A Fun fact** ▶️ *Sleep and Coffee - both hate me*👻<br>
 
 😄 **Pronouns** ▶️ *He/Him/His* <br>
