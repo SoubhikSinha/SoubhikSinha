@@ -78,6 +78,7 @@
    <tr>
 	   <td><img src = "https://w7.pngwing.com/pngs/801/880/png-transparent-rstudio-macos-r-blue-text-trademark.png" alt="RStudio" width="60"></td>
 	   <td><img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUiNwNvWfATiDCwOeYGDWDbIauxNSjZJHEdJKkb9dH3_dk9e8fRbk_K3z8iKuy_HkNUzfSu7S9V2fO_T6vWEF6wVhOPbHyTzvrlEUKVP649ngKDHReYCs77uVUFK-kSTpEekq8T6b-Mqjj/s1600/code+block+logo.jpg" alt="CodeBlocks" width="60"></td>
+	   <td><img src = "https://avatars.githubusercontent.com/u/49176046?s=280&v=4" alt="BentoML" width="60"></td>
    </tr>
 </table>
 
