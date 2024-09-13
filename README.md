@@ -1,4 +1,4 @@
-## Hello, GitHubians 👋 This is Soubhik Sinha
+## Hello, GitHubians <img src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" alt="Waving Hand" width="40" height="40"> This is Soubhik Sinha
 
 
 ### A bit about myself🔻<br><br>
