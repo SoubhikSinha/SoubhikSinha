@@ -98,7 +98,7 @@
 	<img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" alt="GitHub" width="25" height="25">
 </a>
 &nbsp;&nbsp;
-<a href="https://www.instagram.com/the_domnolent_mind_/"> 
+<a href="https://www.instagram.com/the_somnolent_mind_/"> 
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" width="25" height="25"> 
 </a>
 
