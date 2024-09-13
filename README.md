@@ -87,18 +87,20 @@
 *Well, I am not someone for whom you need **[God's Eye from "Fast and the Furious 7"](https://fastandfurious.fandom.com/wiki/God%27s_Eye)**.  So, let me make it easier for you*🔻<br>
 
 <a href="https://www.linkedin.com/in/ssinha2001">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" width="35" height="35">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" width="25" height="25">
 </a>
 &nbsp;&nbsp;
 <a href="mailto:job.soubhiksinha@gmail.com">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/google_logo-google_icongoogle-512.png" alt="Gmail" width="35" height="35">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/google_logo-google_icongoogle-512.png" alt="Gmail" width="25" height="25">
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/sricks404">
-	<img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" alt="GitHub" width="35" height="35">
+	<img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" alt="GitHub" width="25" height="25">
 </a>
-
-
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/the_domnolent_mind_/"> 
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" width="25" height="25"> 
+</a>
 
 
  
