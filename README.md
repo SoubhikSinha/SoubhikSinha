@@ -3,9 +3,12 @@
 
 ### A bit about myself🔻<br><br>
 
-🤔 **Who am I ?** ▶️ Graduate Student, pursuing **MS in CSE (spec. in AI)** @ [University at Buffalo - SUNY](https://www.buffalo.edu/)<br>
+📖 **Education** 🔻 
 
-🏢 **What-n-Where am I working now ?** ▶️ Graduate Student Assistant (Grader) : CSE 676 - Deep Learning *(Under the supervision of [Prof. Changyou Chen](https://www.linkedin.com/in/changyou-chen-945a3537/))*<br>
+ - August 2023 - December 2024 ▶️ **Master of Science** -  Computer Science and Engineering (specializing in Artificial Intelligence)** @ [University at Buffalo - SUNY](https://www.buffalo.edu/) &nbsp;<img src="https://cdn.pixabay.com/photo/2017/03/14/21/00/american-flag-2144392_1280.png" alt="US Flag" height="15" width = auto>
+ - July 2019 - June 2023 ▶️ **Bachelor of Technology** -  Information technology** @ [VIT University, Vellore, TN, IND](https://vit.ac.in/) &nbsp;<img src="https://img.freepik.com/free-vector/illustration-india-flag_53876-27130.jpg" alt="IND Flag" height="15" width = auto>
+
+🏢 **What-n-Where am I working now ?** ▶️ Graduate Student Assistant (Grader) : CSE 676 - Deep Learning *(Under the supervision of [Prof. Changyou Chen](https://www.linkedin.com/in/changyou-chen-945a3537/))* @ [University at Buffalo - SUNY](https://www.buffalo.edu/)<br>
 
 💥 **What am I passionate about ?** 🔻
 
