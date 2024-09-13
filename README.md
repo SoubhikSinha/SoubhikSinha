@@ -3,11 +3,11 @@
 
 ### A bit about myself🔻<br><br>
 
-🤔 **Who I am ?** ▶️ Graduate Student, pursuing **MS in CSE (spec. in AI)** @ [University at Buffalo - SUNY](https://www.buffalo.edu/)<br>
+🤔 **Who am I ?** ▶️ Graduate Student, pursuing **MS in CSE (spec. in AI)** @ [University at Buffalo - SUNY](https://www.buffalo.edu/)<br>
 
-🏢 **What-n-Where I am working now ?** ▶️ Graduate Teaching Assistant (Grader) : CSE 676 - Deep Learning *(Under the supervision of [Prof. Changyou Chen](https://www.linkedin.com/in/changyou-chen-945a3537/))*<br>
+🏢 **What-n-Where am I working now ?** ▶️ Graduate Teaching Assistant (Grader) : CSE 676 - Deep Learning *(Under the supervision of [Prof. Changyou Chen](https://www.linkedin.com/in/changyou-chen-945a3537/))*<br>
 
-💥 **What I am passionate about ?** 🔻
+💥 **What am I passionate about ?** 🔻
 
  - Machine Learning 🖥️
  - Deep Learning 🧠
@@ -15,7 +15,7 @@
  - Computer Vision 👀
  - Large Language Models 🦜
  
- 🌱 **What I am currently learning ?** ▶️ *Mastering the ancient art of <u>inner peace</u>, with the patience of [Master Oogway](https://universalstudios.fandom.com/wiki/Oogway)* ⛩️🐢<br>
+ 🌱 **What am I currently learning ?** ▶️ *Mastering the ancient art of <u>inner peace</u>, with the patience of [Master Oogway](https://universalstudios.fandom.com/wiki/Oogway)* ⛩️🐢<br>
  
 <img src="https://github.com/sricks404/sricks404/blob/main/Oogway%20Bug.gif" alt="Oogway - Bug" width="250" height="auto">
 
