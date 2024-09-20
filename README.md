@@ -3,14 +3,14 @@
 
 ### A bit about myself🔻<br><br>
 
-📖 **Education** 🔻 
+📖 **Education** 👇
 
  - August 2023 - December 2024 ▶️ **Master of Science** -  Computer Science and Engineering (specializing in Artificial Intelligence) @ [University at Buffalo - SUNY](https://www.buffalo.edu/) &nbsp;<img src="https://cdn.pixabay.com/photo/2017/03/14/21/00/american-flag-2144392_1280.png" alt="US Flag" height="15" width = auto>
  - July 2019 - June 2023 ▶️ **Bachelor of Technology** -  Information technology @ [VIT University, Vellore, TN, IND](https://vit.ac.in/) &nbsp;<img src="https://img.freepik.com/free-vector/illustration-india-flag_53876-27130.jpg" alt="IND Flag" height="15" width = auto>
 
 🏢 **What-n-Where am I working now ?** ▶️ Graduate Student Assistant (Grader) : CSE 676 - Deep Learning *(Under the supervision of [Prof. Changyou Chen](https://www.linkedin.com/in/changyou-chen-945a3537/))* @ [University at Buffalo - SUNY](https://www.buffalo.edu/)<br>
 
-💥 **What am I passionate about ?** 🔻
+💥 **What am I passionate about ?** 👇
 
  - Machine Learning 🖥️
  - Deep Learning 🧠
@@ -28,7 +28,7 @@
 
 😄 **Pronouns** ▶️ *He/Him/His* <br>
 
-⚙️ **What tools and skills have I explored so far ?** 🔻<br>
+⚙️ **What tools and skills have I explored so far ?** 👇<br>
 <table>
 	<tr>
 		<td><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C Programming" width=60"/></td>
@@ -90,7 +90,7 @@
 <br>
 
 🔍 **How to reach out to me ?**<br>
-*Well, I am not someone for whom you need **[God's Eye from "Fast and the Furious 7"](https://fastandfurious.fandom.com/wiki/God%27s_Eye)**.  So, let me make it easier for you*🔻<br>
+*Well, I am not someone for whom you need **[God's Eye from "Fast and the Furious 7"](https://fastandfurious.fandom.com/wiki/God%27s_Eye)**.  So, let me make it easier for you* 👇<br>
 
 <a href="https://www.linkedin.com/in/ssinha2001">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" width="25" height="25">
@@ -107,21 +107,3 @@
 <a href="https://www.instagram.com/the_somnolent_mind_/"> 
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" width="25" height="25"> 
 </a>
-
-
- 
-
-
- 
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... ❌
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...❌
-- ⚡ Fun fact: ...❌
--->
