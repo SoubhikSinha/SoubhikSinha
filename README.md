@@ -8,7 +8,7 @@
  - August 2023 - December 2024 ▶️ **Master of Science** -  Computer Science and Engineering (specializing in Artificial Intelligence) @ [University at Buffalo - SUNY](https://www.buffalo.edu/) &nbsp;<img src="https://cdn.pixabay.com/photo/2017/03/14/21/00/american-flag-2144392_1280.png" alt="US Flag" height="15" width = auto>
  - July 2019 - June 2023 ▶️ **Bachelor of Technology** -  Information technology @ [VIT University, Vellore, TN, IND](https://vit.ac.in/) &nbsp;<img src="https://img.freepik.com/free-vector/illustration-india-flag_53876-27130.jpg" alt="IND Flag" height="15" width = auto>
 
-🏢 **What-n-Where am I working now ?** ▶️ Graduate Teaching Assistant (Grader) : CSE 676 - Deep Learning *(Under the supervision of [Prof. Changyou Chen](https://www.linkedin.com/in/changyou-chen-945a3537/))* @ [University at Buffalo - SUNY](https://www.buffalo.edu/)<br>
+🏢 **What-n-Where am I working now ?** ▶️ Graduate Student Assistant (Grader) : CSE 676 - Deep Learning *(Under the supervision of [Prof. Changyou Chen](https://www.linkedin.com/in/changyou-chen-945a3537/))* @ [University at Buffalo - SUNY](https://www.buffalo.edu/)<br>
 
 💥 **What am I passionate about ?** 🔻
 
@@ -83,6 +83,7 @@
 	   <td><img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUiNwNvWfATiDCwOeYGDWDbIauxNSjZJHEdJKkb9dH3_dk9e8fRbk_K3z8iKuy_HkNUzfSu7S9V2fO_T6vWEF6wVhOPbHyTzvrlEUKVP649ngKDHReYCs77uVUFK-kSTpEekq8T6b-Mqjj/s1600/code+block+logo.jpg" alt="CodeBlocks" width="60"></td>
 	   <td><img src = "https://avatars.githubusercontent.com/u/49176046?s=280&v=4" alt="BentoML" width="60"></td>
 	   <td><img src = "https://e7.pngegg.com/pngimages/399/47/png-clipart-kaggle-predictive-modelling-data-science-business-predictive-analytics-%E6%95%B0%E6%8D%AE-blue-text.png" alt="Kaggle" width="60"></td>
+	   <td><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" alt="OpenCV" width="60"></td>
    </tr>
 </table>
 
