@@ -114,7 +114,7 @@ Graduate Student Assistant (Grader) : CSE 676 - Deep Learning *(Under the superv
     <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/google_logo-google_icongoogle-512.png" alt="Gmail" width="25" height="25">
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/sricks404">
+<a href="https://github.com/SoubhikSinha">
 	<img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" alt="GitHub" width="25" height="25">
 </a>
 &nbsp;&nbsp;
