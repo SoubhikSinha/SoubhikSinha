@@ -98,6 +98,11 @@ Graduate Student Assistant (Grader) : CSE 676 - Deep Learning *(Under the superv
 	   <td><img src = "https://avatars.githubusercontent.com/u/49176046?s=280&v=4" alt="BentoML" width="60"></td>
 	   <td><img src = "https://e7.pngegg.com/pngimages/399/47/png-clipart-kaggle-predictive-modelling-data-science-business-predictive-analytics-%E6%95%B0%E6%8D%AE-blue-text.png" alt="Kaggle" width="60"></td>
 	   <td><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" alt="OpenCV" width="60"></td>
+	   <td><img src = "https://avatars.githubusercontent.com/u/88676955?s=200&v=4" alt="ZenML" width="60"></td>
+   </tr>
+   <tr>
+   <td><img src = "https://dyltqmyl993wv.cloudfront.net/assets/stacks/mlflow/img/mlflow-stack-220x234.png" alt="MLflow" width="60"></td>
+   <td><img src = "https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit" width="60"></td>
    </tr>
 </table>
 
@@ -114,7 +119,7 @@ Graduate Student Assistant (Grader) : CSE 676 - Deep Learning *(Under the superv
     <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/google_logo-google_icongoogle-512.png" alt="Gmail" width="25" height="25">
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/SoubhikSinha">
+<a href="https://github.com/sricks404">
 	<img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" alt="GitHub" width="25" height="25">
 </a>
 &nbsp;&nbsp;
