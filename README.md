@@ -63,7 +63,7 @@ Graduate Student Assistant (Grader) : CSE 676 - Deep Learning *(Under the superv
 	  <tr>
 		  <td><img src = "https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" alt="Scikit-Learn" width="60"></td>
 		  <td><img src = "https://miro.medium.com/v2/resize:fit:1184/0*zKRz1UgqpOZ4bvuA" alt="Python - NLTK" width="60"></td>
-		  <td><img src = "https://img.stackshare.io/service/7312/7-7zis8f_400x400.png" alt="SpaCy" width="60"></td>
+		  <td><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/1200px-SpaCy_logo.svg.png" alt="SpaCy" width="60"></td>
 		  <td><img src = "https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="MongoDB" width="60"></td>
 		  <td><img src = "https://miro.medium.com/v2/resize:fit:750/1*x5D-t_6hTxA_5YDtAZJZvw.jpeg" alt="Oracle db 11g" width="60"></td>
 		  <td><img src = "https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" width="60"></td>
