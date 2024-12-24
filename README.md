@@ -10,7 +10,7 @@
 
 <br>
 
-### 🏢 **Work Experience** 👇<br>
+### 🏢 **Professional Experience** 👇<br>
 
  - <b>August 2024 - December 2024</b> 🔻<br>
 Graduate Student Assistant (Grader) : CSE 676 - Deep Learning <br>
