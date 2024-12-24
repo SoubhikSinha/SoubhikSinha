@@ -1,12 +1,19 @@
 ## Hello, GitHubians <img src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" alt="Waving Hand" width="40" height="40"> This is <b>`°●• Soubhik Sinha •●°`</b>
 
 
-### A bit about myself🔻<br><br>
+### A bit about myself 🔽<br><br>
 
 ### 📖 **Education** 👇
 
- - August 2023 - December 2024 ▶️ **Master of Science** -  Computer Science and Engineering (specializing in Artificial Intelligence) @ [University at Buffalo - SUNY](https://www.buffalo.edu/) &nbsp;<img src="https://cdn.pixabay.com/photo/2017/03/14/21/00/american-flag-2144392_1280.png" alt="US Flag" height="15" width = auto>
- - July 2019 - June 2023 ▶️ **Bachelor of Technology** -  Information technology @ [VIT University, Vellore, TN, IND](https://vit.ac.in/) &nbsp;<img src="https://img.freepik.com/free-vector/illustration-india-flag_53876-27130.jpg" alt="IND Flag" height="15" width = auto>
+ - August 2023 - December 2024 🔻<br>
+**Master of Science** -  Computer Science and Engineering (specializing in Artificial Intelligence)<br>*[University at Buffalo - SUNY](https://www.buffalo.edu/) &nbsp;*
+<br>*Buffalo, New York, USA*&nbsp;&nbsp;<img src="https://cdn.pixabay.com/photo/2017/03/14/21/00/american-flag-2144392_1280.png" alt="US Flag" height="15" width = auto>
+<br>
+
+ - July 2019 - June 2023 🔻<br>
+**Bachelor of Technology** -  Information technology<br>
+*[Vellore Institute of Technology (VIT University)](https://vit.ac.in/) &nbsp;*<br>
+*Vellore, Tamil Nadu, India*&nbsp;&nbsp;<img src="https://img.freepik.com/free-vector/illustration-india-flag_53876-27130.jpg" alt="IND Flag" height="15" width = auto>
 
 <br>
 
