@@ -20,7 +20,7 @@
 ### 🏢 **Professional Experience** 👇<br>
 
  - <b>August 2024 - December 2024</b> 🔻<br>
-Graduate Student Assistant (Grader) : CSE 676 - Deep Learning <br>
+Graduate Teaching Assistant (Grader) : CSE 676 - Deep Learning <br>
 *(Under the supervision of [Dr. Changyou Chen](https://www.linkedin.com/in/changyou-chen-945a3537/))<br>
 [University at Buffalo - SUNY](https://www.buffalo.edu/)*
 <br>
