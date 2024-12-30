@@ -121,6 +121,7 @@ Dadri, Uttar Pradesh, India</i>
    <tr>
    <td><img src = "https://dyltqmyl993wv.cloudfront.net/assets/stacks/mlflow/img/mlflow-stack-220x234.png" alt="MLflow" width="60"></td>
    <td><img src = "https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit" width="60"></td>
+   <td><img src = "https://upload.wikimedia.org/wikipedia/commons/a/af/Data_Version_Control._Official_Logo_by_Iterative.ai.png" alt="DVC" width="60"></td>
    </tr>
 </table>
 
