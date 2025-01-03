@@ -123,6 +123,7 @@ Dadri, Uttar Pradesh, India</i>
    <td><img src = "https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit" width="60"></td>
    <td><img src = "https://upload.wikimedia.org/wikipedia/commons/a/af/Data_Version_Control._Official_Logo_by_Iterative.ai.png" alt="DVC" width="60"></td>
    <td><img src = "https://dlab.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/hugging_face_0.png?itok=EcNqVjG9&timestamp=1639512837" alt="HuggingFace" width="60"></td>
+   <td><img src = "https://www.iotworlds.com/wp-content/uploads/2024/05/iotworlds-langchain.webp" alt="LangChain" width="60"></td>
    </tr>
 </table>
 
