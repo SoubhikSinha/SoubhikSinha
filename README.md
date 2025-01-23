@@ -63,16 +63,16 @@ Dadri, Uttar Pradesh, India</i>
 ### ⚙️ **What tools and skills have I explored so far ?** 👇<br>
 <table>
 	<tr>
-		<td><a href="https://www.geeksforgeeks.org/c-programming-language/" target="C_Programming"><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C Programming" width=60"/></td>
-<td><a href="https://www.geeksforgeeks.org/c-plus-plus/" target="C++_Programming"><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Programming" width=45"/></td>
-		<td><a href="https://www.python.org/" target="Python_Programming"><img src = "https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python Programming" width="60"></td>
-		<td><a href="https://www.r-project.org/about.html" target="R_Programming"><img src = "https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000" alt="R Project" width="60"></td>
-		<td><a href="https://www.mathworks.com/products/matlab.html" target="MATLAB"><img src = "https://img.icons8.com/?size=100&id=62398&format=png&color=000000" alt="MATLAB" width="60"></td>
-		<td><a href="https://www.java.com/en/" target="Java"><img src = "https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" alt="Java" width="60"></td>
+		<td><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C Programming" width=60"/></td>
+<td><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Programming" width=45"/></td>
+		<td><img src = "https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python Programming" width="60"></td>
+		<td><img src = "https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000" alt="R Project" width="60"></td>
+		<td><img src = "https://img.icons8.com/?size=100&id=62398&format=png&color=000000" alt="MATLAB" width="60"></td>
+		<td><img src = "https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" alt="Java" width="60"></td>
    </tr>
    <tr>
-	  <td><a href="https://azure.microsoft.com/en-us" target="Azure"><img src = "https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" alt="Azure" width="60"></td>
-	  <td><a href="https://aws.amazon.com/" target="AWS"><img src = "https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000" alt="AWS" width="60"></td>
+	  <td><img src = "https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" alt="Azure" width="60"></td>
+	  <td><img src = "https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000" alt="AWS" width="60"></td>
 	  <td><img src = "https://img.icons8.com/?size=100&id=62856&format=png&color=000000" alt="GitHub" width="60"></td>
 	  <td><img src = "https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="60"></td>
 	  <td><img src = "https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000" alt="Anaconda" width="60"></td>
@@ -120,10 +120,11 @@ Dadri, Uttar Pradesh, India</i>
    </tr>
    <tr>
    <td><img src = "https://dyltqmyl993wv.cloudfront.net/assets/stacks/mlflow/img/mlflow-stack-220x234.png" alt="MLflow" width="60"></td>
-   <td><img src = "https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit" width="60"></td>
+   <td><img src = "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mk8aoa97px9xhi723o1.jpg" alt="Streamlit" width="60"></td>
    <td><img src = "https://upload.wikimedia.org/wikipedia/commons/a/af/Data_Version_Control._Official_Logo_by_Iterative.ai.png" alt="DVC" width="60"></td>
    <td><img src = "https://dlab.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/hugging_face_0.png?itok=EcNqVjG9&timestamp=1639512837" alt="HuggingFace" width="60"></td>
    <td><img src = "https://www.iotworlds.com/wp-content/uploads/2024/05/iotworlds-langchain.webp" alt="LangChain" width="60"></td>
+   <td><img src = "https://avatars.githubusercontent.com/u/54333248?s=200&v=4" alt="Pinecone" width="60"></td>
    </tr>
 </table>
 
