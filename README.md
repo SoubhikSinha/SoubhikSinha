@@ -1,9 +1,9 @@
 ## Hello, GitHubians <img src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" alt="Waving Hand" width="40" height="40"> This is <b>`°●• Soubhik Sinha •●°`</b>
 
 
-### A bit about myself 🔽<br><br>
+## A bit about myself &nbsp;&nbsp;<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="50" height="50"><br><br>
 
-### 📖 **Education** 👇
+## 📖 **Education**
 
  - August 2023 - December 2024 🔻<br>
 **Master of Science** -  Computer Science and Engineering (specializing in Artificial Intelligence)<br>*[University at Buffalo - SUNY](https://www.buffalo.edu/) &nbsp;*
@@ -17,7 +17,7 @@
 
 <br>
 
-### 🏢 **Professional Experience** 👇<br>
+## 🏢 **Professional Experience**<br>
 
  - <b>August 2024 - December 2024</b> 🔻<br>
 Graduate Teaching Assistant (Grader) : CSE 676 - Deep Learning <br>
@@ -33,7 +33,7 @@ Dadri, Uttar Pradesh, India</i>
 
 <br>
 
-### 💥 **What am I passionate about ?** 👇
+## 💥 **What am I passionate about ?**
 
  - Machine Learning 🖥️
  - Deep Learning 🧠
@@ -43,24 +43,24 @@ Dadri, Uttar Pradesh, India</i>
  
  <br>
  
- ### 🌱 **What am I currently learning ?** 👇<br>
+ ## 🌱 **What am I currently learning ?**<br>
  *Mastering the ancient art of <u>inner peace</u>, with the patience of [Master Oogway](https://universalstudios.fandom.com/wiki/Oogway)* ⛩️🐢<br>
  
 <img src="https://github.com/sricks404/sricks404/blob/main/Oogway%20Bug.gif" alt="Oogway - Bug" width="250" height="auto">
 
 <br>
 
-### ⚡ **A Fun fact** 👇 
+## ⚡ **A Fun fact** 
 *Sleep* 😪 *and Coffee* ☕ - *both hate me*👻
 
 <br>
 
-### 😄 **Pronouns** 👇<br>
+## 😄 **Pronouns**<br>
 *He/Him/His* **👦** 
 
 <br>
 
-### ⚙️ **What tools and skills have I explored so far ?** 👇<br>
+## ⚙️ **What tools and skills have I explored so far ?**<br>
 <table>
 	<tr>
 		<td><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C Programming" width=60"/></td>
@@ -69,6 +69,7 @@ Dadri, Uttar Pradesh, India</i>
 		<td><img src = "https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000" alt="R Project" width="60"></td>
 		<td><img src = "https://img.icons8.com/?size=100&id=62398&format=png&color=000000" alt="MATLAB" width="60"></td>
 		<td><img src = "https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" alt="Java" width="60"></td>
+		<td><img src = "https://lh3.googleusercontent.com/Xtt-WZqHiV8OjACMMMr6wMdoMGE7bABi-HYujupzevufo1kiHUFQZukI1JILhjItrPNrDWLq6pfd=s600-w600" alt="Gemini" width="60"></td>
    </tr>
    <tr>
 	  <td><img src = "https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" alt="Azure" width="60"></td>
@@ -77,6 +78,7 @@ Dadri, Uttar Pradesh, India</i>
 	  <td><img src = "https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="60"></td>
 	  <td><img src = "https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000" alt="Anaconda" width="60"></td>
 	  <td><img src = "https://media.licdn.com/dms/image/v2/C4E0BAQFW0NjQTP2Rvg/company-logo_200_200/company-logo_200_200/0/1630627344241/evidently_ai_logo?e=2147483647&v=beta&t=RAHXUIKKgU6CKm1VHw5ZXP7Cse5piPvpM0D1tLzX5f8" alt="Evidently AI" width="60"></td>
+	  <td><img src = "https://i1.sndcdn.com/avatars-5kMd7CfkeKR970IM-HVYgHQ-t1080x1080.jpg" alt="OpenAI" width="60"></td>
 	  </tr>
 	  <tr>
 		  <td><img src = "https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" alt="Scikit-Learn" width="60"></td>
@@ -106,7 +108,7 @@ Dadri, Uttar Pradesh, India</i>
 	   <td><img src = "https://i0.wp.com/begincodingnow.com/wp-content/uploads/2023/08/colab_logo.png?fit=260%2C160&ssl=1" alt="Google Colab" width="60"></td>
 	   <td><img src = "https://w7.pngwing.com/pngs/1/687/png-transparent-apache-spark-apache-http-server-scala-apache-software-foundation-data-processing-others-miscellaneous-text-orange.png" alt="Apache Spark" width="60"></td>
 	   <td><img src = "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" width="60"></td>
-	   <td><img src = "https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png" alt="MySQL" width="60"></td>
+	   <td><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/800px-Database-mysql.svg.png" alt="MySQL" width="60"></td>
 	   <td><img src = "https://numfocus.org/wp-content/uploads/2016/07/jupyter-logo-300.png" alt="Jupyter" width="60"></td>
 	   <td><img src = "https://i0.wp.com/teech.com.br/wp-content/uploads/2020/01/VsCode.png?fit=512%2C512" alt="Jupyter" width="60"></td>
    </tr>
