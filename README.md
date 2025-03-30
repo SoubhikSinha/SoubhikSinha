@@ -114,6 +114,7 @@ Dadri, Uttar Pradesh, India</i>
 	   <td><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/800px-Database-mysql.svg.png" alt="MySQL" width="60"></td>
 	   <td><img src = "https://numfocus.org/wp-content/uploads/2016/07/jupyter-logo-300.png" alt="Jupyter" width="60"></td>
 	   <td><img src = "https://i0.wp.com/teech.com.br/wp-content/uploads/2020/01/VsCode.png?fit=512%2C512" alt="Jupyter" width="60"></td>
+	   <td><img src = "https://res.cloudinary.com/dthpnue1d/image/upload/c_fill,g_faces,w_480/c_scale,q_auto,f_auto,fl_lossy/apache_spark_optimization_techniques_bg_84a3cee7b3.png?_a=DAJCyJE+ZAA0" alt="Spark" width="60"></td>
    </tr>
    <tr>
 	   <td><img src = "https://w7.pngwing.com/pngs/801/880/png-transparent-rstudio-macos-r-blue-text-trademark.png" alt="RStudio" width="60"></td>
@@ -122,6 +123,7 @@ Dadri, Uttar Pradesh, India</i>
 	   <td><img src = "https://e7.pngegg.com/pngimages/399/47/png-clipart-kaggle-predictive-modelling-data-science-business-predictive-analytics-%E6%95%B0%E6%8D%AE-blue-text.png" alt="Kaggle" width="60"></td>
 	   <td><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" alt="OpenCV" width="60"></td>
 	   <td><img src = "https://avatars.githubusercontent.com/u/88676955?s=200&v=4" alt="ZenML" width="60"></td>
+	   <td><img src = "https://cdn.prod.website-files.com/601064f495f4b4967f921aa9/64246984585c9225aa4e4fc4_databricks.png" alt="Databricks" width="60"></td>
    </tr>
    <tr>
    <td><img src = "https://dyltqmyl993wv.cloudfront.net/assets/stacks/mlflow/img/mlflow-stack-220x234.png" alt="MLflow" width="60"></td>
