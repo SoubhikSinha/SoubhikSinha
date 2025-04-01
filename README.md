@@ -3,20 +3,6 @@
 
 ## A bit about myself &nbsp;&nbsp;<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="50" height="50"><br><br>
 
-## 📖 **Education**
-
- - August 2023 - December 2024 🔻<br>
-**Master of Science** -  Computer Science and Engineering (specializing in Artificial Intelligence)<br>*[University at Buffalo - SUNY](https://www.buffalo.edu/) &nbsp;*
-<br>*Buffalo, New York, USA*&nbsp;&nbsp;<img src="https://cdn.pixabay.com/photo/2017/03/14/21/00/american-flag-2144392_1280.png" alt="US Flag" height="15" width = auto>
-<br>
-
- - July 2019 - June 2023 🔻<br>
-**Bachelor of Technology** -  Information technology<br>
-*[Vellore Institute of Technology (VIT University)](https://vit.ac.in/) &nbsp;*<br>
-*Vellore, Tamil Nadu, India*&nbsp;&nbsp;<img src="https://img.freepik.com/free-vector/illustration-india-flag_53876-27130.jpg" alt="IND Flag" height="15" width = auto>
-
-<br>
-
 ## 🏢 **Professional Experience**<br>
 
  - <b>August 2024 - December 2024</b> 🔻<br>
@@ -30,6 +16,20 @@ Summer Intern - Data Analytics<br>
 <i>National Capital Power Station</i><br>
 <i>National Thermal Power Corporation ([NTPC Ltd.](https://ntpc.co.in/))<br>
 Dadri, Uttar Pradesh, India</i>
+
+<br>
+
+## 📖 **Education**
+
+ - August 2023 - December 2024 🔻<br>
+**Master of Science** -  Computer Science and Engineering (specializing in Artificial Intelligence)<br>*[University at Buffalo - SUNY](https://www.buffalo.edu/) &nbsp;*
+<br>*Buffalo, New York, USA*&nbsp;&nbsp;<img src="https://cdn.pixabay.com/photo/2017/03/14/21/00/american-flag-2144392_1280.png" alt="US Flag" height="15" width = auto>
+<br>
+
+ - July 2019 - June 2023 🔻<br>
+**Bachelor of Technology** -  Information technology<br>
+*[Vellore Institute of Technology (VIT University)](https://vit.ac.in/) &nbsp;*<br>
+*Vellore, Tamil Nadu, India*&nbsp;&nbsp;<img src="https://img.freepik.com/free-vector/illustration-india-flag_53876-27130.jpg" alt="IND Flag" height="15" width = auto>
 
 <br>
 
