@@ -4,6 +4,11 @@
 ## A bit about myself &nbsp;&nbsp;<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="50" height="50"><br><br>
 
 ## 🏢 **Professional Experience**<br>
+ - <b>February 2025 - Present</b> 🔻<br>
+Research Assistant <br>
+*(Under the supervision of [Dr. Changyou Chen](https://www.linkedin.com/in/changyou-chen-945a3537/))<br>
+[University at Buffalo - SUNY](https://www.buffalo.edu/)*
+<br>
 
  - <b>August 2024 - December 2024</b> 🔻<br>
 Graduate Teaching Assistant (Grader) : CSE 676 - Deep Learning <br>
@@ -11,7 +16,7 @@ Graduate Teaching Assistant (Grader) : CSE 676 - Deep Learning <br>
 [University at Buffalo - SUNY](https://www.buffalo.edu/)*
 <br>
 
- - <b>June 2022</b> 🔻<br>
+ - <b>June 2022 - June 2022</b> 🔻<br>
 Summer Intern - Data Analytics<br>
 <i>National Capital Power Station</i><br>
 <i>National Thermal Power Corporation ([NTPC Ltd.](https://ntpc.co.in/))<br>
@@ -70,6 +75,7 @@ Dadri, Uttar Pradesh, India</i>
 		<td><img src = "https://img.icons8.com/?size=100&id=62398&format=png&color=000000" alt="MATLAB" width="60"></td>
 		<td><img src = "https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" alt="Java" width="60"></td>
 		<td><img src = "https://lh3.googleusercontent.com/Xtt-WZqHiV8OjACMMMr6wMdoMGE7bABi-HYujupzevufo1kiHUFQZukI1JILhjItrPNrDWLq6pfd=s600-w600" alt="Gemini" width="60"></td>
+		<td><img src = "https://www.myqnap.org/wp-content/uploads/Mage-logo.png" alt="Mage" width="60"></td>
    </tr>
    <tr>
 	  <td><img src = "https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" alt="Azure" width="60"></td>
@@ -132,6 +138,7 @@ Dadri, Uttar Pradesh, India</i>
    <td><img src = "https://dlab.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/hugging_face_0.png?itok=EcNqVjG9&timestamp=1639512837" alt="HuggingFace" width="60"></td>
    <td><img src = "https://www.iotworlds.com/wp-content/uploads/2024/05/iotworlds-langchain.webp" alt="LangChain" width="60"></td>
    <td><img src = "https://avatars.githubusercontent.com/u/54333248?s=200&v=4" alt="Pinecone" width="60"></td>
+   <td><img src = "https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" alt="GCP" width="60"></td>
    </tr>
 </table>
 
