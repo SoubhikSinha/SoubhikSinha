@@ -95,6 +95,7 @@ Dadri, Uttar Pradesh, India</i>
 		  <td><img src = "https://miro.medium.com/v2/resize:fit:750/1*x5D-t_6hTxA_5YDtAZJZvw.jpeg" alt="Oracle db 11g" width="60"></td>
 		  <td><img src = "https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" width="60"></td>
 		  <td><img src = "https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/06/22103224/Kafka-Logo-White.png" alt="Apache-Kafka" width="60"></td>
+		  <td><img src = "https://llama-2.ai/wp-content/uploads/2023/09/Llama-2-Model-Details.png" alt="Meta_LLaMA" width="60"></td>
    </tr>
    <tr>
 	   <td><img src = "https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau" width="60"></td>
