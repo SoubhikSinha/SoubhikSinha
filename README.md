@@ -149,7 +149,7 @@ Dadri, Uttar Pradesh, India</i>
 ### 🔍 **How to reach out to me ?**<br>
 *Well, I am not someone for whom you need **[God's Eye from "Fast and the Furious 7"](https://fastandfurious.fandom.com/wiki/God%27s_Eye)**.  So, let me make it easier for you* 👇<br>
 
-<a href="https://www.linkedin.com/in/ssinha2001">
+<a href="https://www.linkedin.com/in/sinhasoubhik/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" width="25" height="25">
 </a>
 &nbsp;&nbsp;
