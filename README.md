@@ -17,7 +17,7 @@ Graduate Teaching Assistant (Grader) : CSE 676 - Deep Learning <br>
 <br>
 
  - <b>June 2022 - June 2022</b> 🔻<br>
-Summer Intern - Data Analytics<br>
+Summer Intern - Data Scientist<br>
 <i>National Capital Power Station</i><br>
 <i>National Thermal Power Corporation ([NTPC Ltd.](https://ntpc.co.in/))<br>
 Dadri, Uttar Pradesh, India</i>
