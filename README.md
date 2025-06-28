@@ -95,7 +95,6 @@ Dadri, Uttar Pradesh, India</i>
 		  <td><img src = "https://miro.medium.com/v2/resize:fit:750/1*x5D-t_6hTxA_5YDtAZJZvw.jpeg" alt="Oracle db 11g" width="60"></td>
 		  <td><img src = "https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" width="60"></td>
 		  <td><img src = "https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/06/22103224/Kafka-Logo-White.png" alt="Apache-Kafka" width="60"></td>
-		  <td><img src = "https://llama-2.ai/wp-content/uploads/2023/09/Llama-2-Model-Details.png" alt="Meta_LLaMA" width="60"></td>
    </tr>
    <tr>
 	   <td><img src = "https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau" width="60"></td>
@@ -121,8 +120,8 @@ Dadri, Uttar Pradesh, India</i>
 	   <td><img src = "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" width="60"></td>
 	   <td><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/800px-Database-mysql.svg.png" alt="MySQL" width="60"></td>
 	   <td><img src = "https://numfocus.org/wp-content/uploads/2016/07/jupyter-logo-300.png" alt="Jupyter" width="60"></td>
-	   <td><img src = "https://i0.wp.com/teech.com.br/wp-content/uploads/2020/01/VsCode.png?fit=512%2C512" alt="Jupyter" width="60"></td>
-	   <td><img src = "https://res.cloudinary.com/dthpnue1d/image/upload/c_fill,g_faces,w_480/c_scale,q_auto,f_auto,fl_lossy/apache_spark_optimization_techniques_bg_84a3cee7b3.png?_a=DAJCyJE+ZAA0" alt="Spark" width="60"></td>
+	   <td><img src = "https://i0.wp.com/teech.com.br/wp-content/uploads/2020/01/VsCode.png?fit=512%2C512" alt="VS-Code" width="60"></td>
+	  <td><img src = "https://llama-2.ai/wp-content/uploads/2023/09/Llama-2-Model-Details.png" alt="Meta_LLaMA" width="60"></td>
    </tr>
    <tr>
 	   <td><img src = "https://w7.pngwing.com/pngs/801/880/png-transparent-rstudio-macos-r-blue-text-trademark.png" alt="RStudio" width="60"></td>
