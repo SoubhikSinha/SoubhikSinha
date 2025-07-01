@@ -35,63 +35,71 @@ name: "SOUBHIK SINHA"
 pronounciation: "Shaw-bhik Sin-ha"
 preferred_name: "Rick"
 location: "Buffalo, New York, USA"
-work_experience:
-[
-	{idx: "0",
-	position: "Full Stack Developer (GenAI)",
-	organization: "Saayam For All",
-	location : "REMOTE (headquarters : San Jose, California, USA)",
-	period: "May 2025 - Present" },
-	{idx: "1",
-	position: "Research Assistant",
-	department_school: "CSE - School of Engineering and Applied Sciences (SEAS)",
-	organization: "University at Buffalo - SUNY",
-	supervisor: "Dr. Changyou Chen",
-	location : "Buffalo, New York, USA",
-	period: "February 2025 - Present"},
-	{idx: "2",
-	position: "Graduate Teaching Assistant",
-	department_school: "CSE - School of Engineering and Applied Sciences (SEAS)",
-	organization: "University at Buffalo - SUNY",
-	supervisor: "Dr. Changyou Chen",
-	location : "Buffalo, New York, USA",
-	period: "August 2024 - January 2025"}
-]
-internship_experience : {
-	[idx: "0"
-	 position: "Summer Intern - Data Scientist"
-	 organization: "NTPC Ltd. (National Capital Power Station)"
-	 location: "Dadri, UP, IND"
-	 period : "June 2022 - July 2022"]
-}
-education : {
-	[idx : "0"
-	 degree : "Master of Science (MS)"
-	 major : "Computer Science and Engineering"
-	 specialization : "Artificial Intelligence"
-	 department_school : "CSE - School of Engineering and Applied Sciences (SEAS)"
-	 university : "University at Buffalo - SUNY"
-	 location : "Buffalo, New York, USA"
-	 period : "August 2023 - May 2025"]
-	 [idx : "1"
-	  degree : "Bachelor of Technology (B.Tech / BS)"
-	  major : "Information Technology"
-	  university : "VIT University - Vellore"
-	  location : "Vellore, Tamil Nadu, India"
-	  period : "July 2019 - June 2023"]
-}
-fields_of_interests : {
-	["Machine Learning",
-	 "Deep Learning",
-	 "Computer Vision",
-	 "Natural Language Processing",
-	 "Large Language Models",
-	 "Agentic AI",
-	 "Generative AI"]
-}
-pronouns : "He/Him/His"
-hobbies : ["Painting" , "Cycling", "Walking", "Jogging", "Gym & Fitness", "Cooking"]
+pronouns: "He/Him/His"
 
+work_experience:
+  - idx: "0"
+    position: "Full Stack Developer (GenAI)"
+    organization: "Saayam For All"
+    location: "REMOTE (headquarters: San Jose, California, USA)"
+    period: "May 2025 - Present"
+
+  - idx: "1"
+    position: "Research Assistant"
+    department_school: "CSE - School of Engineering and Applied Sciences (SEAS)"
+    organization: "University at Buffalo - SUNY"
+    supervisor: "Dr. Changyou Chen"
+    location: "Buffalo, New York, USA"
+    period: "February 2025 - Present"
+
+  - idx: "2"
+    position: "Graduate Teaching Assistant"
+    department_school: "CSE - School of Engineering and Applied Sciences (SEAS)"
+    organization: "University at Buffalo - SUNY"
+    supervisor: "Dr. Changyou Chen"
+    location: "Buffalo, New York, USA"
+    period: "August 2024 - January 2025"
+
+internship_experience:
+  - idx: "0"
+    position: "Summer Intern - Data Scientist"
+    organization: "NTPC Ltd. (National Capital Power Station)"
+    location: "Dadri, UP, IND"
+    period: "June 2022 - July 2022"
+
+education:
+  - idx: "0"
+    degree: "Master of Science (MS)"
+    major: "Computer Science and Engineering"
+    specialization: "Artificial Intelligence"
+    department_school: "CSE - School of Engineering and Applied Sciences (SEAS)"
+    university: "University at Buffalo - SUNY"
+    location: "Buffalo, New York, USA"
+    period: "August 2023 - May 2025"
+
+  - idx: "1"
+    degree: "Bachelor of Technology (B.Tech / BS)"
+    major: "Information Technology"
+    university: "VIT University - Vellore"
+    location: "Vellore, Tamil Nadu, India"
+    period: "July 2019 - June 2023"
+
+fields_of_interests:
+  - "Machine Learning"
+  - "Deep Learning"
+  - "Computer Vision"
+  - "Natural Language Processing"
+  - "Large Language Models"
+  - "Agentic AI"
+  - "Generative AI"
+
+hobbies:
+  - "Painting"
+  - "Cycling"
+  - "Walking"
+  - "Jogging"
+  - "Gym & Fitness"
+  - "Cooking"
 ```
 
 <br>
