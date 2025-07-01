@@ -4,6 +4,11 @@
 ## A bit about myself &nbsp;&nbsp;<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="50" height="50"><br><br>
 
 ## 🏢 **Professional Experience**<br>
+ - <b>May 2025 - Present</b> 🔻<br>
+Full Stack Developer (GenAI) <br>
+*Saayam For All*
+<br>
+
  - <b>February 2025 - Present</b> 🔻<br>
 Research Assistant <br>
 *(Under the supervision of [Dr. Changyou Chen](https://www.linkedin.com/in/changyou-chen-945a3537/))<br>
