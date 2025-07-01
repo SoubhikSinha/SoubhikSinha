@@ -25,79 +25,78 @@
     </a>
 </div>
 
-
-
-## A bit about myself &nbsp;&nbsp;<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="50" height="50"><br><br>
-
-## 🏢 **Professional Experience**<br>
- - <b>May 2025 - Present</b> 🔻<br>
-Full Stack Developer (GenAI) <br>
-*Saayam For All*
+<br>
 <br>
 
- - <b>February 2025 - Present</b> 🔻<br>
-Research Assistant <br>
-*(Under the supervision of [Dr. Changyou Chen](https://www.linkedin.com/in/changyou-chen-945a3537/))<br>
-[University at Buffalo - SUNY](https://www.buffalo.edu/)*
+## A bit about myself &nbsp;&nbsp;<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="50" height="50"><br>
+
+```YAML
+name: "SOUBHIK SINHA"
+pronounciation: "Shaw-bhik Sin-ha"
+preferred_name: "Rick"
+location: "Buffalo, New York, USA"
+work_experience:
+[
+	{idx: "0",
+	position: "Full Stack Developer (GenAI)",
+	organization: "Saayam For All",
+	location : "REMOTE (headquarters : San Jose, California, USA)",
+	period: "May 2025 - Present" },
+	{idx: "1",
+	position: "Research Assistant",
+	department_school: "CSE - School of Engineering and Applied Sciences (SEAS)",
+	organization: "University at Buffalo - SUNY",
+	supervisor: "Dr. Changyou Chen",
+	location : "Buffalo, New York, USA",
+	period: "February 2025 - Present"},
+	{idx: "2",
+	position: "Graduate Teaching Assistant",
+	department_school: "CSE - School of Engineering and Applied Sciences (SEAS)",
+	organization: "University at Buffalo - SUNY",
+	supervisor: "Dr. Changyou Chen",
+	location : "Buffalo, New York, USA",
+	period: "August 2024 - January 2025"}
+]
+internship_experience : {
+	[idx: "0"
+	 position: "Summer Intern - Data Scientist"
+	 organization: "NTPC Ltd. (National Capital Power Station)"
+	 location: "Dadri, UP, IND"
+	 period : "June 2022 - July 2022"]
+}
+education : {
+	[idx : "0"
+	 degree : "Master of Science (MS)"
+	 major : "Computer Science and Engineering"
+	 specialization : "Artificial Intelligence"
+	 department_school : "CSE - School of Engineering and Applied Sciences (SEAS)"
+	 university : "University at Buffalo - SUNY"
+	 location : "Buffalo, New York, USA"
+	 period : "August 2023 - May 2025"]
+	 [idx : "1"
+	  degree : "Bachelor of Technology (B.Tech / BS)"
+	  major : "Information Technology"
+	  university : "VIT University - Vellore"
+	  location : "Vellore, Tamil Nadu, India"
+	  period : "July 2019 - June 2023"]
+}
+fields_of_interests : {
+	["Machine Learning",
+	 "Deep Learning",
+	 "Computer Vision",
+	 "Natural Language Processing",
+	 "Large Language Models",
+	 "Agentic AI",
+	 "Generative AI"]
+}
+pronouns : "He/Him/His"
+hobbies : ["Painting" , "Cycling", "Walking", "Jogging", "Gym & Fitness", "Cooking"]
+
+```
+
 <br>
 
- - <b>August 2024 - December 2024</b> 🔻<br>
-Graduate Teaching Assistant (Grader) : CSE 676 - Deep Learning <br>
-*(Under the supervision of [Dr. Changyou Chen](https://www.linkedin.com/in/changyou-chen-945a3537/))<br>
-[University at Buffalo - SUNY](https://www.buffalo.edu/)*
-<br>
-
- - <b>June 2022 - June 2022</b> 🔻<br>
-Summer Intern - Data Scientist<br>
-<i>National Capital Power Station</i><br>
-<i>National Thermal Power Corporation ([NTPC Ltd.](https://ntpc.co.in/))<br>
-Dadri, Uttar Pradesh, India</i>
-
-<br>
-
-## 📖 **Education**
-
- - August 2023 - December 2024 🔻<br>
-**Master of Science** -  Computer Science and Engineering (specializing in Artificial Intelligence)<br>*[University at Buffalo - SUNY](https://www.buffalo.edu/) &nbsp;*
-<br>*Buffalo, New York, USA*&nbsp;&nbsp;<img src="https://cdn.pixabay.com/photo/2017/03/14/21/00/american-flag-2144392_1280.png" alt="US Flag" height="15" width = auto>
-<br>
-
- - July 2019 - June 2023 🔻<br>
-**Bachelor of Technology** -  Information technology<br>
-*[Vellore Institute of Technology (VIT University)](https://vit.ac.in/) &nbsp;*<br>
-*Vellore, Tamil Nadu, India*&nbsp;&nbsp;<img src="https://img.freepik.com/free-vector/illustration-india-flag_53876-27130.jpg" alt="IND Flag" height="15" width = auto>
-
-<br>
-
-## 💥 **What am I passionate about ?**
-
- - Machine Learning 🖥️
- - Deep Learning 🧠
- - Natural Language Processing [**ENG/हिन्दी/বাংলা➡️💻➡️°●⁕⁂⏒⨀☠️**]
- - Computer Vision 👀
- - Large Language Models 🦜
- - Agentic AI 🤖
- 
- <br>
- 
- ## 🌱 **What am I currently learning ?**<br>
- *Mastering the ancient art of <u>inner peace</u>, with the patience of [Master Oogway](https://universalstudios.fandom.com/wiki/Oogway)* ⛩️🐢<br>
- 
-<img src="https://github.com/sricks404/sricks404/blob/main/Oogway%20Bug.gif" alt="Oogway - Bug" width="250" height="auto">
-
-<br>
-
-## ⚡ **A Fun fact** 
-*Sleep* 😪 *and Coffee* ☕ - *both hate me*👻
-
-<br>
-
-## 😄 **Pronouns**<br>
-*He/Him/His* **👦** 
-
-<br>
-
-## ⚙️ **What tools and skills have I explored so far ?**<br>
+## **Tools I have explored so far**<br>
 <table>
 	<tr>
 		<td><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C Programming" width=60"/></td>
@@ -174,3 +173,9 @@ Dadri, Uttar Pradesh, India</i>
    <td><img src = "https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" alt="GCP" width="60"></td>
    </tr>
 </table>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=150&section=footer"/>
+</p>
