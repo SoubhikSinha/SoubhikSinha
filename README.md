@@ -50,6 +50,7 @@ Dadri, Uttar Pradesh, India</i>
  - Natural Language Processing [**ENG/हिन्दी/বাংলা➡️💻➡️°●⁕⁂⏒⨀☠️**]
  - Computer Vision 👀
  - Large Language Models 🦜
+ - Agentic AI 🤖
  
  <br>
  
