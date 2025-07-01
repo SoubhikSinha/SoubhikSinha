@@ -1,4 +1,30 @@
-## Hello, GitHubians <img src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" alt="Waving Hand" width="40" height="40"> This is <b>`°●• Soubhik Sinha •●°`</b>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=300&section=header&text=Hello%20GitHubians%20!&fontSize=90"/>
+</p>
+
+<h1 align="center">
+  Let’s connect <img src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" alt="Waving Hand" width="40" height="40">  and have a chat <img src="https://media.tenor.com/XTCPYh5SlzoAAAAM/discord-typing.gif" alt="Waving Hand" width="60" height="40"><br>Because that’s what everyone does here, right? <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyZnd0MHlxbHZiY20xZW12cDQ0amtqMTV0d3k1dTh3NjV2Mm9saW43cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQdJGRh7rmqz6omeaZ/source.gif" alt="Waving Hand" width="40" height="40">  
+</h1>
+<br>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/sinhasoubhik/" target="_blank">
+      <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" alt="LinkedIn Profile" width="75" height="75">
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:job.soubhiksinha@gmail.com">
+      <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_google-plus-512.png" alt="Gmail" width="75" height="75">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/SoubhikSinha" target="_blank">
+      <img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_GitHub-512.png" alt="GitHub" width="75" height="75">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.instagram.com/the_somnolent_mind_/" target="_blank">
+      <img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-512.png" alt="Instagram" width="75" height="75">
+    </a>
+</div>
+
 
 
 ## A bit about myself &nbsp;&nbsp;<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="50" height="50"><br><br>
@@ -154,18 +180,3 @@ Dadri, Uttar Pradesh, India</i>
 ### 🔍 **How to reach out to me ?**<br>
 *Well, I am not someone for whom you need **[God's Eye from "Fast and the Furious 7"](https://fastandfurious.fandom.com/wiki/God%27s_Eye)**.  So, let me make it easier for you* 👇<br>
 
-<a href="https://www.linkedin.com/in/sinhasoubhik/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" width="25" height="25">
-</a>
-&nbsp;&nbsp;
-<a href="mailto:job.soubhiksinha@gmail.com">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/google_logo-google_icongoogle-512.png" alt="Gmail" width="25" height="25">
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/SoubhikSinha">
-	<img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" alt="GitHub" width="25" height="25">
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/the_somnolent_mind_/"> 
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" width="25" height="25"> 
-</a>
