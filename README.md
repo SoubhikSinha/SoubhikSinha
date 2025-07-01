@@ -31,75 +31,91 @@
 ## A bit about myself &nbsp;&nbsp;<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="50" height="50"><br>
 
 ```YAML
-name: "SOUBHIK SINHA"
-pronounciation: "Shaw-bhik Sin-ha"
-preferred_name: "Rick"
-location: "Buffalo, New York, USA"
-pronouns: "He/Him/His"
+profile = {
+    "name": "SOUBHIK SINHA",
+    "pronounciation": "Shaw-bhik Sin-ha",
+    "preferred_name": "Rick",
+    "location": "Buffalo, New York, USA",
+    "pronouns": "He/Him/His",
 
-work_experience:
-  - idx: "0"
-    position: "Full Stack Developer (GenAI)"
-    organization: "Saayam For All"
-    location: "REMOTE (headquarters: San Jose, California, USA)"
-    period: "May 2025 - Present"
+    "work_experience": [
+        {
+            "idx": "0",
+            "position": "Full Stack Developer (GenAI)",
+            "organization": "Saayam For All",
+            "location": "REMOTE (headquarters: San Jose, California, USA)",
+            "period": "May 2025 - Present"
+        },
+        {
+            "idx": "1",
+            "position": "Research Assistant",
+            "department_school": "CSE - School of Engineering and Applied Sciences (SEAS)",
+            "organization": "University at Buffalo - SUNY",
+            "supervisor": "Dr. Changyou Chen",
+            "location": "Buffalo, New York, USA",
+            "period": "February 2025 - Present"
+        },
+        {
+            "idx": "2",
+            "position": "Graduate Teaching Assistant",
+            "department_school": "CSE - School of Engineering and Applied Sciences (SEAS)",
+            "organization": "University at Buffalo - SUNY",
+            "supervisor": "Dr. Changyou Chen",
+            "location": "Buffalo, New York, USA",
+            "period": "August 2024 - January 2025"
+        }
+    ],
 
-  - idx: "1"
-    position: "Research Assistant"
-    department_school: "CSE - School of Engineering and Applied Sciences (SEAS)"
-    organization: "University at Buffalo - SUNY"
-    supervisor: "Dr. Changyou Chen"
-    location: "Buffalo, New York, USA"
-    period: "February 2025 - Present"
+    "internship_experience": [
+        {
+            "idx": "0",
+            "position": "Summer Intern - Data Scientist",
+            "organization": "NTPC Ltd. (National Capital Power Station)",
+            "location": "Dadri, UP, IND",
+            "period": "June 2022 - July 2022"
+        }
+    ],
 
-  - idx: "2"
-    position: "Graduate Teaching Assistant"
-    department_school: "CSE - School of Engineering and Applied Sciences (SEAS)"
-    organization: "University at Buffalo - SUNY"
-    supervisor: "Dr. Changyou Chen"
-    location: "Buffalo, New York, USA"
-    period: "August 2024 - January 2025"
+    "education": [
+        {
+            "idx": "0",
+            "degree": "Master of Science (MS)",
+            "major": "Computer Science and Engineering",
+            "specialization": "Artificial Intelligence",
+            "department_school": "CSE - School of Engineering and Applied Sciences (SEAS)",
+            "university": "University at Buffalo - SUNY",
+            "location": "Buffalo, New York, USA",
+            "period": "August 2023 - May 2025"
+        },
+        {
+            "idx": "1",
+            "degree": "Bachelor of Technology (B.Tech / BS)",
+            "major": "Information Technology",
+            "university": "VIT University - Vellore",
+            "location": "Vellore, Tamil Nadu, India",
+            "period": "July 2019 - June 2023"
+        }
+    ],
 
-internship_experience:
-  - idx: "0"
-    position: "Summer Intern - Data Scientist"
-    organization: "NTPC Ltd. (National Capital Power Station)"
-    location: "Dadri, UP, IND"
-    period: "June 2022 - July 2022"
+    "fields_of_interests": [
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "Natural Language Processing",
+        "Large Language Models",
+        "Agentic AI",
+        "Generative AI"
+    ],
 
-education:
-  - idx: "0"
-    degree: "Master of Science (MS)"
-    major: "Computer Science and Engineering"
-    specialization: "Artificial Intelligence"
-    department_school: "CSE - School of Engineering and Applied Sciences (SEAS)"
-    university: "University at Buffalo - SUNY"
-    location: "Buffalo, New York, USA"
-    period: "August 2023 - May 2025"
-
-  - idx: "1"
-    degree: "Bachelor of Technology (B.Tech / BS)"
-    major: "Information Technology"
-    university: "VIT University - Vellore"
-    location: "Vellore, Tamil Nadu, India"
-    period: "July 2019 - June 2023"
-
-fields_of_interests:
-  - "Machine Learning"
-  - "Deep Learning"
-  - "Computer Vision"
-  - "Natural Language Processing"
-  - "Large Language Models"
-  - "Agentic AI"
-  - "Generative AI"
-
-hobbies:
-  - "Painting"
-  - "Cycling"
-  - "Walking"
-  - "Jogging"
-  - "Gym & Fitness"
-  - "Cooking"
+    "hobbies": [
+        "Painting",
+        "Cycling",
+        "Walking",
+        "Jogging",
+        "Gym & Fitness",
+        "Cooking"
+    ]
+}
 ```
 
 <br>
