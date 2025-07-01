@@ -174,9 +174,3 @@ Dadri, Uttar Pradesh, India</i>
    <td><img src = "https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" alt="GCP" width="60"></td>
    </tr>
 </table>
-
-<br>
-
-### 🔍 **How to reach out to me ?**<br>
-*Well, I am not someone for whom you need **[God's Eye from "Fast and the Furious 7"](https://fastandfurious.fandom.com/wiki/God%27s_Eye)**.  So, let me make it easier for you* 👇<br>
-
