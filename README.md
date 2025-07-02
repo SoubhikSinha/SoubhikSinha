@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=125&section=header&text=Hello%20GitHubians%20!&fontSize=90textBg=true&fontALignY=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=300&section=header&text=Hello%20GitHubians%20!&fontSize=90textBg=true&fontALignY=150"/>
 </p>
 
 <h2 align="center">
@@ -199,6 +199,11 @@ profile = {
 </table>
 
 <br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SoubhikSinha&show_icons=true&theme=cobalt" alt="Soubhik's GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoubhikSinha&layout=compact&theme=cobalt" alt="Top Languages" height="200"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=150&section=footer"/>
