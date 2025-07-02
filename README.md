@@ -203,9 +203,9 @@ profile = {
 ## My GitHub Graveyard&nbsp;&nbsp; <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/671aa299-389a-4d17-8a3b-61e58dce20e8/dg0w8zo-35041a48-dd70-49a8-a561-2be0f5aecc61.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY3MWFhMjk5LTM4OWEtNGQxNy04YTNiLTYxZTU4ZGNlMjBlOFwvZGcwdzh6by0zNTA0MWE0OC1kZDcwLTQ5YTgtYTU2MS0yYmUwZjVhZWNjNjEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CdLWkS4WSqlSYZMT-JrN3p4uj7AkdJwas4JGkKRDUuc" height = 75, width=150>
 A place where commits go to die ... or sometimes live.
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoubhikSinha&show_icons=true&theme=cobalt" alt="Soubhik's GitHub Stats" width="400"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoubhikSinha&layout=compact&theme=cobalt" alt="Top Languages" width="304"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SoubhikSinha&show_icons=true&theme=cobalt" width="280"/>
+  <img src="https://streak-stats.demolab.com?user=SoubhikSinha&theme=cobalt&hide_border=false" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoubhikSinha&layout=compact&theme=cobalt" width="216"/>
 </p>
 
 
