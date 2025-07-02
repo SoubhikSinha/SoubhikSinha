@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=125&section=header&text=Hello%20GitHubians%20!&fontSize=90textBg=true&fontALignY=100"/>
 </p>
@@ -28,7 +29,7 @@
 <br>
 <br>
 
-## A bit about myself &nbsp;&nbsp;<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="50" height="50"><br>
+## A bit about myself <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="50" height="50"><br>
 
 ```YAML
 profile = {
@@ -118,9 +119,6 @@ profile = {
 }
 ```
 
-<br>
-
-## **Tools I have explored so far <img src="https://cdn.pixabay.com/animation/2023/05/04/20/32/20-32-16-61_512.gif" height = 30, width=50>**
 <table>
 	<tr>
 		<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C Programming" width=60"/></td>
@@ -198,22 +196,13 @@ profile = {
    </tr>
 </table>
 
-<br>
-
-## My GitHub Graveyard&nbsp;&nbsp; <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/671aa299-389a-4d17-8a3b-61e58dce20e8/dg0w8zo-35041a48-dd70-49a8-a561-2be0f5aecc61.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY3MWFhMjk5LTM4OWEtNGQxNy04YTNiLTYxZTU4ZGNlMjBlOFwvZGcwdzh6by0zNTA0MWE0OC1kZDcwLTQ5YTgtYTU2MS0yYmUwZjVhZWNjNjEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CdLWkS4WSqlSYZMT-JrN3p4uj7AkdJwas4JGkKRDUuc" height = 75, width=150>
-A place where commits go to die ... or sometimes live.
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=SoubhikSinha&show_icons=true&theme=cobalt" width="280"/>
   <img src="https://streak-stats.demolab.com?user=SoubhikSinha&theme=cobalt&hide_border=false" width="300"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoubhikSinha&layout=compact&theme=cobalt" width="216"/>
 </p>
 
-
-<br>
-
-## Watch my contributions snake <img src="https://cdn.dribbble.com/userupload/20227631/file/original-5b3d511afe8bb87ccd1be28542d48fe0.gif" height=50, width=70>
 ![snake gif](https://github.com/SoubhikSinha/SoubhikSinha/blob/output/github-snake-dark.svg)
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=150&section=footer"/>
