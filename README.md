@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=300&section=header&text=Hello%20GitHubians%20!&fontSize=90"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=150&section=header&text=Hello%20GitHubians%20!&fontSize=90"/>
 </p>
 
 <h1 align="center">
