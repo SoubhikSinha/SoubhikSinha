@@ -1,27 +1,27 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=125&section=header&text=Hello%20GitHubians%20!&fontSize=90textBg=true&fontAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=125&section=header&text=Hello%20GitHubians%20!&fontSize=90textBg=true&fontALignY=20"/>
 </p>
 
-<h1 align="center">
-  Let’s connect <img src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" alt="Waving Hand" width="40" height="40">  and have a chat <img src="https://media.tenor.com/XTCPYh5SlzoAAAAM/discord-typing.gif" alt="Waving Hand" width="60" height="40"><br>Because that’s what everyone does here, right? <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyZnd0MHlxbHZiY20xZW12cDQ0amtqMTV0d3k1dTh3NjV2Mm9saW43cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQdJGRh7rmqz6omeaZ/source.gif" alt="Waving Hand" width="40" height="40">  
-</h1>
+<h2 align="center">
+  Let’s connect <img src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" alt="Waving Hand" width="35" height="35">  and have a chat <img src="https://media.tenor.com/XTCPYh5SlzoAAAAM/discord-typing.gif" alt="Waving Hand" width="30" height="20"><br>Because that’s what everyone does here, right? <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyZnd0MHlxbHZiY20xZW12cDQ0amtqMTV0d3k1dTh3NjV2Mm9saW43cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQdJGRh7rmqz6omeaZ/source.gif" alt="Waving Hand" width="25" height="25">  
+</h2>
 <br>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/sinhasoubhik/" target="_blank">
-      <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" alt="LinkedIn Profile" width="75" height="75">
+      <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" alt="LinkedIn Profile" width="60" height="60">
     </a>
     &nbsp;&nbsp;
     <a href="mailto:job.soubhiksinha@gmail.com">
-      <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_google-plus-512.png" alt="Gmail" width="75" height="75">
+      <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_google-plus-512.png" alt="Gmail" width="60" height="60">
     </a>
     &nbsp;&nbsp;
     <a href="https://github.com/SoubhikSinha" target="_blank">
-      <img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_GitHub-512.png" alt="GitHub" width="75" height="75">
+      <img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_GitHub-512.png" alt="GitHub" width="60" height="60">
     </a>
     &nbsp;&nbsp;
     <a href="https://www.instagram.com/the_somnolent_mind_/" target="_blank">
-      <img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-512.png" alt="Instagram" width="75" height="75">
+      <img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-512.png" alt="Instagram" width="60" height="60">
     </a>
 </div>
 
