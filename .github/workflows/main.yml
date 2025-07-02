@@ -16,7 +16,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: anuraghazra
+          github_user_name: SoubhikSinha
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       # Push to GitHub Pages branch
