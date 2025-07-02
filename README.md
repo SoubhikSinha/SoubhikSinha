@@ -199,7 +199,8 @@ profile = {
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=SoubhikSinha&show_icons=true&theme=cobalt" width="280"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoubhikSinha&layout=compact&theme=cobalt" width="214"/>
-  <img src="https://streak-stats.demolab.com?user=SoubhikSinha&theme=cobalt&hide_border=false" width="300"/>
+  <br>
+    <img src="https://streak-stats.demolab.com?user=SoubhikSinha&theme=cobalt&hide_border=false" width="300"/>
 </p>
 
 ![snake gif](https://github.com/SoubhikSinha/SoubhikSinha/blob/output/github-snake-dark.svg)
