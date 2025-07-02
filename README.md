@@ -212,10 +212,7 @@ A place where commits go to die ... or sometimes live.
 <br>
 
 ## 🐍 Watch my contributions snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/soubhiksinha/soubhiksinha/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+![Snake animation](https://github.com/soubhiksinha/soubhiksinha/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
