@@ -5,8 +5,9 @@
 </p>
 
 <h2 align="center">
-  Let’s connect <img src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" alt="Waving Hand" width="35" height="35">  and have a chat <img src="https://media.tenor.com/XTCPYh5SlzoAAAAM/discord-typing.gif" alt="Waving Hand" width="30" height="20"><br>Because that’s what everyone does here, right? <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyZnd0MHlxbHZiY20xZW12cDQ0amtqMTV0d3k1dTh3NjV2Mm9saW43cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQdJGRh7rmqz6omeaZ/source.gif" alt="Waving Hand" width="25" height="25">  
+  Let’s connect <img src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" alt="Waving Hand" width="35" height="35">  and have a chat <img src="https://media.tenor.com/XTCPYh5SlzoAAAAM/discord-typing.gif" alt="Waving Hand" width="30" height="20"><br>Because what’s GitHub without collaboration? <img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" alt="Coding" width="40" height="40">  
 </h2>
+
 <br>
 
 <div align="center">
