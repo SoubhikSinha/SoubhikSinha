@@ -1,5 +1,6 @@
 
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=125&section=header&text=Hello%20GitHubians%20!&fontSize=90textBg=true&fontALignY=100"/>
 </p>
@@ -194,7 +195,7 @@ profile = {
    <td><img src = "https://dlab.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/hugging_face_0.png?itok=EcNqVjG9&timestamp=1639512837" alt="HuggingFace" width="60"></td>
    <td><img src = "https://www.iotworlds.com/wp-content/uploads/2024/05/iotworlds-langchain.webp" alt="LangChain" width="60"></td>
    <td><img src = "https://avatars.githubusercontent.com/u/54333248?s=200&v=4" alt="Pinecone" width="60"></td>
-   <td><img src = "https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" alt="GCP" width="60"></td>
+   <td><img src = "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-18-512.png" alt="GCP" width="60"></td>
    </tr>
 </table>
 
@@ -202,8 +203,8 @@ profile = {
   <img src="https://github-readme-stats.vercel.app/api?username=SoubhikSinha&show_icons=true&theme=cobalt" width="350"/>
   <img src="https://streak-stats.demolab.com?user=SoubhikSinha&theme=cobalt&hide_border=false" width="376"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoubhikSinha&layout=compact&theme=cobalt" width="268"/>
-  <img src="https://leetcard.jacoblin.cool/SoubhikSinha?theme=dark&font=Baloo&ext=contest" width="368">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoubhikSinha&layout=compact&theme=cobalt" width="268"/>
+    <img src="https://leetcard.jacoblin.cool/SoubhikSinha?theme=dark&font=Baloo&ext=contest" width="368">
 </p>
 
 ![snake gif](https://github.com/SoubhikSinha/SoubhikSinha/blob/output/github-snake-dark.svg)
