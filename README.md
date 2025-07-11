@@ -161,6 +161,7 @@ profile = {
 	   <td><img src = "https://hackr.io/tutorials/learn-tensorflow/og_image" alt="Tensorflow" width="60"></td>
 	   <td><img src = "https://logowik.com/content/uploads/images/cassandra4070.logowik.com.webp" alt="Cassandra" width="60"></td>
 	   <td><img src = "https://airflow.apache.org/docs/apache-airflow/1.10.15/_images/pin_large.png" alt="Apache_Airflow" width="60"></td>
+	   <td><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1024px-Sqlite-square-icon.svg.png" alt="SQLlite" width="60"></td>
    </tr>
    <tr>
 	   <td><img src = "https://i0.wp.com/dbaontap.com/wp-content/uploads/2015/11/json-logo.png?fit=690%2C330&ssl=1" alt="JSON" width="60"></td>
