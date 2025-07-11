@@ -151,6 +151,7 @@ profile = {
 		  <td><img src = "https://miro.medium.com/v2/resize:fit:750/1*x5D-t_6hTxA_5YDtAZJZvw.jpeg" alt="Oracle db 11g" width="60"></td>
 		  <td><img src = "https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" width="60"></td>
 		  <td><img src = "https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/06/22103224/Kafka-Logo-White.png" alt="Apache-Kafka" width="60"></td>
+		  <td><img src = "https://www.trychroma.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchroma.d840f629.png&w=1920&q=75&dpl=dpl_3r7vdAG5CvwKQCv2FKDVj3weLvyo" alt="ChromaDB" width="60"></td>
    </tr>
    <tr>
 	   <td><img src = "https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau" width="60"></td>
