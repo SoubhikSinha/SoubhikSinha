@@ -167,7 +167,7 @@ profile = {
 	   <td><img src = "https://i0.wp.com/dbaontap.com/wp-content/uploads/2015/11/json-logo.png?fit=690%2C330&ssl=1" alt="JSON" width="60"></td>
 	   <td><img src = "https://miro.medium.com/v2/resize:fit:394/1*Z_vXwV0SPudOAdlZnoAkWA.png" alt="NVIDIA CUDA" width="60"></td>
 	   <td><img src = "https://w7.pngwing.com/pngs/503/133/png-transparent-ubuntu-plain-logo-icon.png" alt="Ubuntu" width="60"></td>
-	   <td><img src = "https://static-00.iconduck.com/assets.00/linux-icon-2048x2048-sy06t4un.png" alt="Linux" width="60"></td>
+	   <td><img src = "https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-256.png" alt="Linux" width="60"></td>
 	   <td><img src = "https://banner2.cleanpng.com/20180811/ie/16355b638e87610c641904bdaa685410.webp" alt="Hadoop" width="60"></td>
 	   <td><img src = "https://pbs.twimg.com/profile_images/1813965160702451712/yXV1vRhr_400x400.jpg" alt="PyTorch" width="60"></td>
 	   <td><img src = "https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django" width="60"></td>
