@@ -124,7 +124,7 @@ profile = {
 
 <table>
 	<tr>
-		<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C Programming" width=60"/></td>
+		<td><img src="https://img.icons8.com/?size=512&id=40670&format=png" alt="C Programming" width=60"/></td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++ Programming" width=60"/></td>
 		<td><img src = "https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python Programming" width="60"></td>
 		<td><img src = "https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000" alt="R Project" width="60"></td>
