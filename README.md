@@ -112,12 +112,12 @@ profile = {
     ],
 
     "hobbies": [
-        "Painting",
-        "Cycling",
-        "Walking",
-        "Jogging",
-        "Gym & Fitness",
-        "Cooking"
+        "Painting 🎨",
+        "Cycling 🚴",
+        "Walking 🚶",
+        "Jogging 🏃",
+        "Gym & Fitness 🏋️",
+        "Cooking 🥘"
     ]
 }
 ```
