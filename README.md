@@ -67,13 +67,6 @@ profile = {
             "supervisor": "Dr. Changyou Chen",
             "location": "Buffalo, New York, USA",
             "period": "August 2024 - January 2025"
-        },
-        {
-            "idx": "3",
-            "position": "Data Scientist",
-            "organization": "Hexaware Technologies",
-            "location": "India",
-            "period": "August 2020 - May 2022"
         }
     ],
 
