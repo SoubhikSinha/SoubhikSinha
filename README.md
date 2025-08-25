@@ -38,7 +38,7 @@
 profile = {
     "name": "SOUBHIK SINHA",
     "pronounciation": "Shaw-bhik Sin-ha",
-    "preferred_name": "Rick",
+    "preferred_name": "Rick Sugar",
     "location": "Buffalo, New York, USA",
     "pronouns": "He/Him/His",
 
