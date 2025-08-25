@@ -143,6 +143,7 @@ profile = {
 	  <td><img src = "https://media.licdn.com/dms/image/v2/C4E0BAQFW0NjQTP2Rvg/company-logo_200_200/company-logo_200_200/0/1630627344241/evidently_ai_logo?e=2147483647&v=beta&t=RAHXUIKKgU6CKm1VHw5ZXP7Cse5piPvpM0D1tLzX5f8" alt="Evidently AI" width="60"></td>
 	  <td><img src = "https://i1.sndcdn.com/avatars-5kMd7CfkeKR970IM-HVYgHQ-t1080x1080.jpg" alt="OpenAI" width="60"></td>
 	  <td><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="60"></td>
+	  <td><img src = "https://raw.githubusercontent.com/pulumi/pulumi-aws-apigateway/main/assets/logo.png" alt="AWS_API_Gateway" width="60"></td>
 	  </tr>
 	  <tr>
 		  <td><img src = "https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" alt="Scikit-Learn" width="60"></td>
@@ -153,6 +154,7 @@ profile = {
 		  <td><img src = "https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" width="60"></td>
 		  <td><img src = "https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/06/22103224/Kafka-Logo-White.png" alt="Apache-Kafka" width="60"></td>
 		  <td><img src = "https://www.trychroma.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchroma.d840f629.png&w=1920&q=75&dpl=dpl_3r7vdAG5CvwKQCv2FKDVj3weLvyo" alt="ChromaDB" width="60"></td>
+		  <td><img src = "https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-svg-png-download-3030217.png?f=webp" alt="Postman" width="60"></td>
    </tr>
    <tr>
 	   <td><img src = "https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau" width="60"></td>
