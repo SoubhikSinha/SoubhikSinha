@@ -165,6 +165,7 @@ profile = {
 	   <td><img src = "https://logowik.com/content/uploads/images/cassandra4070.logowik.com.webp" alt="Cassandra" width="60"></td>
 	   <td><img src = "https://airflow.apache.org/docs/apache-airflow/1.10.15/_images/pin_large.png" alt="Apache_Airflow" width="60"></td>
 	   <td><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1024px-Sqlite-square-icon.svg.png" alt="SQLlite" width="60"></td>
+	   <td><img src = "https://cdn.freebiesupply.com/logos/large/2x/elastic-elasticsearch-logo-svg-vector.svg" alt="Elasticsearch" width="60"></td>
    </tr>
    <tr>
 	   <td><img src = "https://i0.wp.com/dbaontap.com/wp-content/uploads/2015/11/json-logo.png?fit=690%2C330&ssl=1" alt="JSON" width="60"></td>
@@ -175,6 +176,7 @@ profile = {
 	   <td><img src = "https://pbs.twimg.com/profile_images/1813965160702451712/yXV1vRhr_400x400.jpg" alt="PyTorch" width="60"></td>
 	   <td><img src = "https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django" width="60"></td>
 	   <td><img src = "https://media.licdn.com/dms/image/v2/D560BAQHlmuT3wYkEGA/company-logo_200_200/company-logo_200_200/0/1687162589491?e=2147483647&v=beta&t=r2snE3kC6Pcv-O8PWM7DtxFt6OrWIN5aNwmxenrzkuc" alt="Vext" width="60"></td>
+	   <td><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Mistral_AI_logo_%282025%E2%80%93%29.svg/2560px-Mistral_AI_logo_%282025%E2%80%93%29.svg.png" alt="Mistral" width="60"></td>
    </tr>
    <tr>
 	   <td><img src = "https://i0.wp.com/begincodingnow.com/wp-content/uploads/2023/08/colab_logo.png?fit=260%2C160&ssl=1" alt="Google Colab" width="60"></td>
