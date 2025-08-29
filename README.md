@@ -187,6 +187,7 @@ profile = {
 	   <td><img src = "https://i0.wp.com/teech.com.br/wp-content/uploads/2020/01/VsCode.png?fit=512%2C512" alt="VS-Code" width="60"></td>
 	  <td><img src = "https://llama-2.ai/wp-content/uploads/2023/09/Llama-2-Model-Details.png" alt="Meta_LLaMA" width="60"></td>
 	  <td><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/bedrock.png" alt="AWS_Bedrock" width="60"></td>
+	  <td><img src = "https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="60"></td>
    </tr>
    <tr>
 	   <td><img src = "https://w7.pngwing.com/pngs/801/880/png-transparent-rstudio-macos-r-blue-text-trademark.png" alt="RStudio" width="60"></td>
