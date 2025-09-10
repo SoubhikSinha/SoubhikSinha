@@ -198,13 +198,14 @@ profile = {
 	   <td><img src = "https://avatars.githubusercontent.com/u/88676955?s=200&v=4" alt="ZenML" width="60"></td>
 	   <td><img src = "https://cdn.prod.website-files.com/601064f495f4b4967f921aa9/64246984585c9225aa4e4fc4_databricks.png" alt="Databricks" width="60"></td>
 	   <td><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/2048px-Amazon_Lambda_architecture_logo.svg.png" alt="AWS_Lambda" width="60"></td>
+	   <td><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/1200px-Claude_AI_symbol.svg.png" alt="" width="60"></td>
    </tr>
    <tr>
    <td><img src = "https://dyltqmyl993wv.cloudfront.net/assets/stacks/mlflow/img/mlflow-stack-220x234.png" alt="MLflow" width="60"></td>
    <td><img src = "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mk8aoa97px9xhi723o1.jpg" alt="Streamlit" width="60"></td>
    <td><img src = "https://upload.wikimedia.org/wikipedia/commons/a/af/Data_Version_Control._Official_Logo_by_Iterative.ai.png" alt="DVC" width="60"></td>
    <td><img src = "https://dlab.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/hugging_face_0.png?itok=EcNqVjG9&timestamp=1639512837" alt="HuggingFace" width="60"></td>
-   <td><img src = "https://www.iotworlds.com/wp-content/uploads/2024/05/iotworlds-langchain.webp" alt="LangChain" width="60"></td>
+   <td><img src = "https://images.seeklogo.com/logo-png/61/1/langchain-icon-white-logo-png_seeklogo-611656.png" alt="LangChain" width="60"></td>
    <td><img src = "https://avatars.githubusercontent.com/u/54333248?s=200&v=4" alt="Pinecone" width="60"></td>
    <td><img src = "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-18-512.png" alt="GCP" width="60"></td>
    <td><img src = "https://logo.svgcdn.com/l/aws-cloudwatch-8x.png" alt="AWS_CloudWatch" width="60"></td>
