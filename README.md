@@ -198,6 +198,7 @@ profile = {
 	   <td><img src = "https://avatars.githubusercontent.com/u/88676955?s=200&v=4" alt="ZenML" width="60"></td>
 	   <td><img src = "https://cdn.prod.website-files.com/601064f495f4b4967f921aa9/64246984585c9225aa4e4fc4_databricks.png" alt="Databricks" width="60"></td>
 	   <td><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/2048px-Amazon_Lambda_architecture_logo.svg.png" alt="AWS_Lambda" width="60"></td>
+	   <td><img src = "https://files.svgcdn.io/logos/aws-ec2.png" alt="AWS_EC2" width="60"></td>
    </tr>
    <tr>
    <td><img src = "https://dyltqmyl993wv.cloudfront.net/assets/stacks/mlflow/img/mlflow-stack-220x234.png" alt="MLflow" width="60"></td>
