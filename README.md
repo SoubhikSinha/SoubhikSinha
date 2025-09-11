@@ -133,6 +133,7 @@ profile = {
 		<td><img src = "https://lh3.googleusercontent.com/Xtt-WZqHiV8OjACMMMr6wMdoMGE7bABi-HYujupzevufo1kiHUFQZukI1JILhjItrPNrDWLq6pfd=s600-w600" alt="Gemini" width="60"></td>
 		<td><img src = "https://www.myqnap.org/wp-content/uploads/Mage-logo.png" alt="Mage" width="60"></td>
 		<td><img src = "https://cdn.worldvectorlogo.com/logos/amazon-s3-simple-storage-service.svg" alt="AWS_S3" width="60"></td>
+		<td><img src = "https://cdn.futurepedia.io/ee1c503ee8e96ba578b0b357c233eca97d07336f-400x400.jpg" alt="Stability.ai" width="60"></td>
    </tr>
    <tr>
 	  <td><img src = "https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" alt="Azure" width="60"></td>
@@ -209,6 +210,7 @@ profile = {
    <td><img src = "https://avatars.githubusercontent.com/u/54333248?s=200&v=4" alt="Pinecone" width="60"></td>
    <td><img src = "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-18-512.png" alt="GCP" width="60"></td>
    <td><img src = "https://logo.svgcdn.com/l/aws-cloudwatch-8x.png" alt="AWS_CloudWatch" width="60"></td>
+   <td><img src = "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2024/04/25/Text-embed-feat-img3.png" alt="Amazon_Titan" width="60"></td>
    </tr>
 </table>
 
