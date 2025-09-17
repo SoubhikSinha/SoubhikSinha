@@ -145,6 +145,7 @@ profile = {
 	  <td><img src = "https://i1.sndcdn.com/avatars-5kMd7CfkeKR970IM-HVYgHQ-t1080x1080.jpg" alt="OpenAI" width="60"></td>
 	  <td><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="60"></td>
 	  <td><img src = "https://raw.githubusercontent.com/pulumi/pulumi-aws-apigateway/main/assets/logo.png" alt="AWS_API_Gateway" width="60"></td>
+	  <td><img src = "https://dt-cdn.net/hub/logos/amazon-sagemaker.png" alt="AWS_SageMaker" width="60"></td>
 	  </tr>
 	  <tr>
 		  <td><img src = "https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" alt="Scikit-Learn" width="60"></td>
