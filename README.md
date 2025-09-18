@@ -157,6 +157,7 @@ profile = {
 		  <td><img src = "https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/06/22103224/Kafka-Logo-White.png" alt="Apache-Kafka" width="60"></td>
 		  <td><img src = "https://www.trychroma.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchroma.d840f629.png&w=1920&q=75&dpl=dpl_3r7vdAG5CvwKQCv2FKDVj3weLvyo" alt="ChromaDB" width="60"></td>
 		  <td><img src = "https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-svg-png-download-3030217.png?f=webp" alt="Postman" width="60"></td>
+		  <td><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langsmith.png" alt="LangSmith" width="60"></td>
    </tr>
    <tr>
 	   <td><img src = "https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau" width="60"></td>
