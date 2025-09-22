@@ -193,6 +193,7 @@ profile = {
 	  <td><img src = "https://llama-2.ai/wp-content/uploads/2023/09/Llama-2-Model-Details.png" alt="Meta_LLaMA" width="60"></td>
 	  <td><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/bedrock.png" alt="AWS_Bedrock" width="60"></td>
 	  <td><img src = "https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="60"></td>
+	  <td><img src = "https://cdn-bdmhh.nitrocdn.com/JNiKLBzGPsfbQJqUQoZqIbUrxBklWopT/assets/images/optimized/rev-a72f3cd/objectbox.io/wordpress/wp-content/uploads/2018/06/ObjectBox-Logo-Square-White-Transparent.png" alt="ObjectBox" width="60"></td>
    </tr>
    <tr>
 	   <td><img src = "https://w7.pngwing.com/pngs/801/880/png-transparent-rstudio-macos-r-blue-text-trademark.png" alt="RStudio" width="60"></td>
