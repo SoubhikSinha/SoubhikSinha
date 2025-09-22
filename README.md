@@ -181,6 +181,7 @@ profile = {
 	   <td><img src = "https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django" width="60"></td>
 	   <td><img src = "https://media.licdn.com/dms/image/v2/D560BAQHlmuT3wYkEGA/company-logo_200_200/company-logo_200_200/0/1687162589491?e=2147483647&v=beta&t=r2snE3kC6Pcv-O8PWM7DtxFt6OrWIN5aNwmxenrzkuc" alt="Vext" width="60"></td>
 	   <td><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Mistral_AI_logo_%282025%E2%80%93%29.svg/2560px-Mistral_AI_logo_%282025%E2%80%93%29.svg.png" alt="Mistral" width="60"></td>
+	   <td><img src = "https://cdn.sanity.io/images/bbnkhnhl/production/eedfd7562752ca78ce5d3ff9c57a3d8ef39f99b9-666x666.svg?w=1920&q=75&fit=clip&auto=format" alt="DataStax" width="60"></td>
    </tr>
    <tr>
 	   <td><img src = "https://i0.wp.com/begincodingnow.com/wp-content/uploads/2023/08/colab_logo.png?fit=260%2C160&ssl=1" alt="Google Colab" width="60"></td>
