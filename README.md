@@ -1,6 +1,7 @@
 
 
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=125&section=header&text=Hello%20GitHubians%20!&fontSize=90textBg=true&fontALignY=100"/>
 </p>
@@ -224,6 +225,7 @@ profile = {
    <td><img src = "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-18-512.png" alt="GCP" width="60"></td>
    <td><img src = "https://logo.svgcdn.com/l/aws-cloudwatch-8x.png" alt="AWS_CloudWatch" width="60"></td>
    <td><img src = "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2024/04/25/Text-embed-feat-img3.png" alt="Amazon_Titan" width="60"></td>
+   <td><img src = "https://assets.openalternative.co/tools/typesense/favicon.png?v=1738071663404" alt="typesense" width="60"></td>
    </tr>
 </table>
 
