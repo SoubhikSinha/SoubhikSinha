@@ -45,22 +45,29 @@ profile = {
     "work_experience": [
         {
             "idx": "0",
+            "position": "AI Engineer (Intern)",
+            "organization": "Hexaware Technologies",
+            "location": "REMOTE (headquarters: Jersey City, New Jersey, USA)",
+            "period": "October 2025 - Present"
+        },
+        {
+            "idx": "1",
             "position": "Full Stack Developer (GenAI)",
             "organization": "Saayam For All",
             "location": "REMOTE (headquarters: San Jose, California, USA)",
             "period": "May 2025 - Present"
         },
         {
-            "idx": "1",
+            "idx": "2",
             "position": "Research Assistant",
             "department_school": "CSE - School of Engineering and Applied Sciences (SEAS)",
             "organization": "University at Buffalo - SUNY",
             "supervisor": "Dr. Changyou Chen",
             "location": "Buffalo, New York, USA",
-            "period": "February 2025 - Present"
+            "period": "February 2025 - October 2025"
         },
         {
-            "idx": "2",
+            "idx": "3",
             "position": "Graduate Teaching Assistant",
             "department_school": "CSE - School of Engineering and Applied Sciences (SEAS)",
             "organization": "University at Buffalo - SUNY",
