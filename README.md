@@ -198,7 +198,7 @@ profile = {
 	   <td><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/800px-Database-mysql.svg.png" alt="MySQL" width="60"></td>
 	   <td><img src = "https://numfocus.org/wp-content/uploads/2016/07/jupyter-logo-300.png" alt="Jupyter" width="60"></td>
 	   <td><img src = "https://i0.wp.com/teech.com.br/wp-content/uploads/2020/01/VsCode.png?fit=512%2C512" alt="VS-Code" width="60"></td>
-	  <td><img src = "https://llama-2.ai/wp-content/uploads/2023/09/Llama-2-Model-Details.png" alt="Meta_LLaMA" width="60"></td>
+	  <td><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png" alt="Ollama" width="60"></td>
 	  <td><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/bedrock.png" alt="AWS_Bedrock" width="60"></td>
 	  <td><img src = "https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="60"></td>
 	  <td><img src = "https://cdn-bdmhh.nitrocdn.com/JNiKLBzGPsfbQJqUQoZqIbUrxBklWopT/assets/images/optimized/rev-a72f3cd/objectbox.io/wordpress/wp-content/uploads/2018/06/ObjectBox-Logo-Square-White-Transparent.png" alt="ObjectBox" width="60"></td>
@@ -226,6 +226,9 @@ profile = {
    <td><img src = "https://logo.svgcdn.com/l/aws-cloudwatch-8x.png" alt="AWS_CloudWatch" width="60"></td>
    <td><img src = "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2024/04/25/Text-embed-feat-img3.png" alt="Amazon_Titan" width="60"></td>
    <td><img src = "https://assets.openalternative.co/tools/typesense/favicon.png?v=1738071663404" alt="typesense" width="60"></td>
+   </tr>
+   <tr>
+   <td><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/llamaindex-color.png" alt="LlamaIndex" width="60"></td>
    </tr>
 </table>
 
