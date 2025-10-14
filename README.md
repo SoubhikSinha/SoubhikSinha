@@ -48,7 +48,7 @@ profile = {
             "idx": "0",
             "position": "AI Engineer (Intern)",
             "organization": "Hexaware Technologies",
-            "location": "REMOTE (headquarters: Jersey City, New Jersey, USA)",
+            "location": "REMOTE (headquarters: Iselin, New Jersey, USA)",
             "period": "October 2025 - Present"
         },
         {
@@ -220,7 +220,7 @@ profile = {
    <td><img src = "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mk8aoa97px9xhi723o1.jpg" alt="Streamlit" width="60"></td>
    <td><img src = "https://upload.wikimedia.org/wikipedia/commons/a/af/Data_Version_Control._Official_Logo_by_Iterative.ai.png" alt="DVC" width="60"></td>
    <td><img src = "https://dlab.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/hugging_face_0.png?itok=EcNqVjG9&timestamp=1639512837" alt="HuggingFace" width="60"></td>
-   <td><img src = "https://www.iotworlds.com/wp-content/uploads/2024/05/iotworlds-langchain.webp" alt="LangChain" width="60"></td>
+   <td><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" alt="LangChain" width="60"></td>
    <td><img src = "https://avatars.githubusercontent.com/u/54333248?s=200&v=4" alt="Pinecone" width="60"></td>
    <td><img src = "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-18-512.png" alt="GCP" width="60"></td>
    <td><img src = "https://logo.svgcdn.com/l/aws-cloudwatch-8x.png" alt="AWS_CloudWatch" width="60"></td>
