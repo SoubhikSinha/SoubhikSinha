@@ -151,7 +151,7 @@ profile = {
 	  <td><img src = "https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000" alt="Anaconda" width="60"></td>
 	  <td><img src = "https://media.licdn.com/dms/image/v2/C4E0BAQFW0NjQTP2Rvg/company-logo_200_200/company-logo_200_200/0/1630627344241/evidently_ai_logo?e=2147483647&v=beta&t=RAHXUIKKgU6CKm1VHw5ZXP7Cse5piPvpM0D1tLzX5f8" alt="Evidently AI" width="60"></td>
 	  <td><img src = "https://i1.sndcdn.com/avatars-5kMd7CfkeKR970IM-HVYgHQ-t1080x1080.jpg" alt="OpenAI" width="60"></td>
-	  <td><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="60"></td>
+	  <td><img src = "https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-02-256.png" alt="Excel" width="60"></td>
 	  <td><img src = "https://raw.githubusercontent.com/pulumi/pulumi-aws-apigateway/main/assets/logo.png" alt="AWS_API_Gateway" width="60"></td>
 	  <td><img src = "https://dt-cdn.net/hub/logos/amazon-sagemaker.png" alt="AWS_SageMaker" width="60"></td>
 	  </tr>
