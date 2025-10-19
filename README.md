@@ -1,7 +1,3 @@
-
-
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=125&section=header&text=Hello%20GitHubians%20!&fontSize=90textBg=true&fontALignY=100"/>
 </p>
@@ -229,6 +225,7 @@ profile = {
    </tr>
    <tr>
    <td><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/llamaindex-color.png" alt="LlamaIndex" width="60"></td>
+   <td><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/phidata-color.png" alt="PhiData" width="60"></td>
    </tr>
 </table>
 
