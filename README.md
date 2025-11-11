@@ -198,6 +198,7 @@ profile = {
 		  <td style="border: none;"><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png" alt="Ollama" width="60"></td>
 		  <td style="border: none;"><img src = "https://cdn.sanity.io/images/bbnkhnhl/production/eedfd7562752ca78ce5d3ff9c57a3d8ef39f99b9-666x666.svg?w=1920&q=75&fit=clip&auto=format" alt="DataStax" width="60"></td>
 		  <td style="border: none;"><img src = "https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="60"></td>
+		  <td style="border: none;"><img src = "https://media.licdn.com/dms/image/v2/D560BAQFyGRIuF2bqeQ/company-logo_200_200/B56ZfTe2EtHoAI-/0/1751599768258/crawl4ai_logo?e=2147483647&v=beta&t=skhRct8O4VaW42IwD7eC9Eqc9Pbavt7n6q7QgaJTQE8" alt="Crawl4AI" width="60"></td>
 	   </tr>
 	   <tr style="border: none;">
 		   <td style="border: none;"><img src = "https://w7.pngwing.com/pngs/801/880/png-transparent-rstudio-macos-r-blue-text-trademark.png" alt="RStudio" width="60"></td>
