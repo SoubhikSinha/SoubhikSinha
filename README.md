@@ -159,8 +159,8 @@ profile = {
 			  <td style="border: none;"><img src = "https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="MongoDB" width="60"></td>
 			  <td style="border: none;"><img src = "https://miro.medium.com/v2/resize:fit:750/1*x5D-t_6hTxA_5YDtAZJZvw.jpeg" alt="Oracle db 11g" width="60"></td>
 			  <td style="border: none;"><img src = "https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" width="60"></td>
-			  <td style="border: none;"><img src = "https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/06/22103224/Kafka-Logo-White.png" alt="Apache-Kafka" width="60"></td>
-			  <td style="border: none;"><img src = "https://www.trychroma.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchroma.d840f629.png&w=1920&q=75&dpl=dpl_3r7vdAG5CvwKQCv2FKDVj3weLvyo" alt="ChromaDB" width="60"></td>
+			  <td style="border: none;"><img src = "https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/ICON%20-%20White%20on%20Transparent.png" alt="Apache-Kafka" width="60"></td>
+			  <td style="border: none;"><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQH_R1Ms8CC6U_KrjQ-neWuMnNr9pav89HcA&s" alt="ChromaDB" width="60"></td>
 			  <td style="border: none;"><img src = "https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-svg-png-download-3030217.png?f=webp" alt="Postman" width="60"></td>
 			  <td style="border: none;"><img src = "https://media.licdn.com/dms/image/v2/D560BAQGxuATyknaEgQ/company-logo_200_200/company-logo_200_200/0/1731629952660/langflow_logo?e=2147483647&v=beta&t=OHt-nITurKE4yKq61fKliTVERZteexXJ95QazNmbqaw" alt="LangFlow" width="60"></td>
 	   </tr>
@@ -209,7 +209,7 @@ profile = {
 		   <td style="border: none;"><img src = "https://avatars.githubusercontent.com/u/88676955?s=200&v=4" alt="ZenML" width="60"></td>
 		   <td style="border: none;"><img src = "https://cdn.prod.website-files.com/601064f495f4b4967f921aa9/64246984585c9225aa4e4fc4_databricks.png" alt="Databricks" width="60"></td>
 		  <td style="border: none;"><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/phidata-color.png" alt="PhiData" width="60"></td>		   
-		  <td style="border: none;"><img src = "https://cdn-bdmhh.nitrocdn.com/JNiKLBzGPsfbQJqUQoZqIbUrxBklWopT/assets/images/optimized/rev-a72f3cd/objectbox.io/wordpress/wp-content/uploads/2018/06/ObjectBox-Logo-Square-White-Transparent.png" alt="ObjectBox" width="60"></td>
+		  <td style="border: none;"><img src = "https://cdn-bdmhh.nitrocdn.com/JNiKLBzGPsfbQJqUQoZqIbUrxBklWopT/assets/images/optimized/rev-ea8753d/objectbox.io/wordpress/wp-content/uploads/2018/06/ObjectBox-Logo-Square-White-Transparent.png" alt="ObjectBox" width="60"></td>
 	   </tr>
 	   <tr style="border: none;">
 	   <td style="border: none;"><img src = "https://dyltqmyl993wv.cloudfront.net/assets/stacks/mlflow/img/mlflow-stack-220x234.png" alt="MLflow" width="60"></td>
