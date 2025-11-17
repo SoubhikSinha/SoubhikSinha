@@ -159,7 +159,7 @@ profile = {
 			  <td style="border: none;"><img src = "https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="MongoDB" width="60"></td>
 			  <td style="border: none;"><img src = "https://miro.medium.com/v2/resize:fit:750/1*x5D-t_6hTxA_5YDtAZJZvw.jpeg" alt="Oracle db 11g" width="60"></td>
 			  <td style="border: none;"><img src = "https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" width="60"></td>
-			  <td style="border: none;"><img src = "https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/ICON%20-%20White%20on%20Transparent.png" alt="Apache-Kafka" width="60"></td>
+			  <td style="border: none;"><img src = "https://logosandtypes.com/wp-content/uploads/2020/07/kafka.png" alt="Apache-Kafka" width="60"></td>
 			  <td style="border: none;"><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQH_R1Ms8CC6U_KrjQ-neWuMnNr9pav89HcA&s" alt="ChromaDB" width="60"></td>
 			  <td style="border: none;"><img src = "https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-svg-png-download-3030217.png?f=webp" alt="Postman" width="60"></td>
 			  <td style="border: none;"><img src = "https://media.licdn.com/dms/image/v2/D560BAQGxuATyknaEgQ/company-logo_200_200/company-logo_200_200/0/1731629952660/langflow_logo?e=2147483647&v=beta&t=OHt-nITurKE4yKq61fKliTVERZteexXJ95QazNmbqaw" alt="LangFlow" width="60"></td>
