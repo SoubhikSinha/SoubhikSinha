@@ -52,7 +52,7 @@ profile = {
             "position": "Full Stack Developer (GenAI)",
             "organization": "Saayam For All",
             "location": "REMOTE (headquarters: San Jose, California, USA)",
-            "period": "May 2025 - Present"
+            "period": "May 2025 - November 2025"
         },
         {
             "idx": "2",
