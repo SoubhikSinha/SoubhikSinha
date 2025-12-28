@@ -13,7 +13,7 @@
       <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" alt="LinkedIn Profile" width="60" height="60">
     </a>
     &nbsp;&nbsp;
-    <a href="mailto:job.soubhiksinha@gmail.com">
+    <a href="mailto:work.soubhiksinha@gmail.com">
       <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_google-plus-512.png" alt="Gmail" width="60" height="60">
     </a>
     &nbsp;&nbsp;
