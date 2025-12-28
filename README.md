@@ -35,8 +35,7 @@
 profile = {
     "name": "SOUBHIK SINHA",
     "pronounciation": "Shaw-bhik Sin-ha",
-    "preferred_name": "Rick Sugar",
-    "location": "Buffalo, New York, USA",
+    "preferred_name": "Rick",
     "pronouns": "He/Him/His",
 
     "work_experience": [
@@ -44,7 +43,7 @@ profile = {
             "idx": "0",
             "position": "AI Engineer (Intern)",
             "organization": "Hexaware Technologies",
-            "location": "REMOTE (headquarters: Iselin, New Jersey, USA)",
+            "location": "REMOTE (headquarters: Jersey City, New Jersey, USA)",
             "period": "October 2025 - Present"
         },
         {
