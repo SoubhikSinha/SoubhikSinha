@@ -191,7 +191,7 @@ profile = {
 		   <td style="border: none;"><img src = "https://i0.wp.com/begincodingnow.com/wp-content/uploads/2023/08/colab_logo.png?fit=260%2C160&ssl=1" alt="Google Colab" width="60"></td>
 		   <td style="border: none;"><img src = "https://w7.pngwing.com/pngs/1/687/png-transparent-apache-spark-apache-http-server-scala-apache-software-foundation-data-processing-others-miscellaneous-text-orange.png" alt="Apache Spark" width="60"></td>
 		   <td style="border: none;"><img src = "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" width="60"></td>
-		   <td style="border: none;"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/800px-Database-mysql.svg.png" alt="MySQL" width="60"></td>
+		   <td style="border: none;"><img src = "https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" alt="MySQL" width="60"></td>
 		   <td style="border: none;"><img src = "https://numfocus.org/wp-content/uploads/2016/07/jupyter-logo-300.png" alt="Jupyter" width="60"></td>
 		   <td style="border: none;"><img src = "https://i0.wp.com/teech.com.br/wp-content/uploads/2020/01/VsCode.png?fit=512%2C512" alt="VS-Code" width="60"></td>
 		  <td style="border: none;"><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png" alt="Ollama" width="60"></td>
