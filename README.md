@@ -70,12 +70,9 @@ profile = {
             "supervisor": "Dr. Changyou Chen",
             "location": "Buffalo, New York, USA",
             "period": "August 2024 - January 2025"
-        }
-    ],
-
-    "internship_experience": [
+        },
         {
-            "idx": "0",
+            "idx": "4",
             "position": "Summer Intern - Data Scientist",
             "organization": "NTPC Ltd. (National Capital Power Station)",
             "location": "Dadri, UP, IND",
