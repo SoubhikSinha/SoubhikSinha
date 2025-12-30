@@ -218,6 +218,7 @@ profile = {
 	   <td style="border: none;"><img src = "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-18-512.png" alt="GCP" width="60"></td>
 	   <td style="border: none;"><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/llamaindex-color.png" alt="LlamaIndex" width="60"></td>
 	   <td style="border: none;"><img src = "https://github.com/SoubhikSinha/SoubhikSinha/blob/main/extras/Screenshot%202025-09-19%20at%2018.23.09.png?raw=true" alt="LangServe" width="60"></td>
+	   <td style="border: none;"><img src = "https://antigravity.google/assets/image/blog/blog-feature-introducing-google-antigravity.png" alt="Google_Antigravity" width="60"></td>
 	   </tr>
 	   <tr style="border: none;">
 	   </tr>
