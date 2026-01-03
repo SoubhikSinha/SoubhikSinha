@@ -135,6 +135,7 @@ profile = {
 			<td style="border: none;"><img src = "https://www.myqnap.org/wp-content/uploads/Mage-logo.png" alt="Mage" width="60"></td>
 			<td style="border: none;"><img src = "https://assets.openalternative.co/tools/typesense/favicon.png?v=1738071663404" alt="typesense" width="60"></td>
 			<td style="border: none;"><img src = "https://cdn.futurepedia.io/ee1c503ee8e96ba578b0b357c233eca97d07336f-400x400.jpg" alt="Stability.ai" width="60"></td>
+			<td style="border: none;"><img src = "https://avatars.githubusercontent.com/u/128686189?s=200&v=4" alt="Chainlit" width="60"></td>
 	   </tr>
 	   <tr style="border: none;">
 		  <td style="border: none;"><img src = "https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" alt="Azure" width="60"></td>
@@ -147,6 +148,7 @@ profile = {
 		  <td style="border: none;"><img src = "https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-02-256.png" alt="Excel" width="60"></td>
 		  <td style="border: none;"><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" alt=LangGraph" width="60"></td>
 		  <td style="border: none;"><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langsmith.png" alt="LangSmith" width="60"></td>
+		  <td style="border: none;"><img src = "https://avatars.githubusercontent.com/u/34724717?s=280&v=4" alt="SerpAPI" width="60"></td>
 		  </tr>
 		  <tr style="border: none;">
 			  <td style="border: none;"><img src = "https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" alt="Scikit-Learn" width="60"></td>
