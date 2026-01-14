@@ -170,7 +170,7 @@ profile = {
 		   <td style="border: none;"><img src = "https://hackr.io/tutorials/learn-tensorflow/og_image" alt="Tensorflow" width="60"></td>
 		   <td style="border: none;"><img src = "https://logowik.com/content/uploads/images/cassandra4070.logowik.com.webp" alt="Cassandra" width="60"></td>
 		   <td style="border: none;"><img src = "https://airflow.apache.org/docs/apache-airflow/1.10.15/_images/pin_large.png" alt="Apache_Airflow" width="60"></td>
-		   <td style="border: none;"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1024px-Sqlite-square-icon.svg.png" alt="SQLlite" width="60"></td>
+		   <td style="border: none;"><img src = "https://cdn3d.iconscout.com/3d/free/thumb/free-sqlite-3d-icon-png-download-7578006.png?f=webp" alt="SQLlite" width="60"></td>
 		   <td style="border: none;"><img src = "https://cdn.freebiesupply.com/logos/large/2x/elastic-elasticsearch-logo-svg-vector.svg" alt="Elasticsearch" width="60"></td>
 		   <td style="border: none;"><img src = "https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript" width="60"></td>
 	   </tr>
@@ -183,7 +183,7 @@ profile = {
 		   <td style="border: none;"><img src = "https://pbs.twimg.com/profile_images/1813965160702451712/yXV1vRhr_400x400.jpg" alt="PyTorch" width="60"></td>
 		   <td style="border: none;"><img src = "https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django" width="60"></td>
 		   <td style="border: none;"><img src = "https://media.licdn.com/dms/image/v2/D560BAQHlmuT3wYkEGA/company-logo_200_200/company-logo_200_200/0/1687162589491?e=2147483647&v=beta&t=r2snE3kC6Pcv-O8PWM7DtxFt6OrWIN5aNwmxenrzkuc" alt="Vext" width="60"></td>
-		   <td style="border: none;"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Mistral_AI_logo_%282025%E2%80%93%29.svg/2560px-Mistral_AI_logo_%282025%E2%80%93%29.svg.png" alt="Mistral" width="60"></td>
+		   <td style="border: none;"><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/mistral-color.png" alt="Mistral" width="60"></td>
 		   <td style="border: none;"><img src = "https://artwork.lfaidata.foundation/projects/flyte/icon/color/flyte-icon-color.png" alt="Flyte" width="60"></td>
 	   </tr>
 	   <tr style="border: none;">
@@ -203,11 +203,11 @@ profile = {
 		   <td style="border: none;"><img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUiNwNvWfATiDCwOeYGDWDbIauxNSjZJHEdJKkb9dH3_dk9e8fRbk_K3z8iKuy_HkNUzfSu7S9V2fO_T6vWEF6wVhOPbHyTzvrlEUKVP649ngKDHReYCs77uVUFK-kSTpEekq8T6b-Mqjj/s1600/code+block+logo.jpg" alt="CodeBlocks" width="60"></td>
 		   <td style="border: none;"><img src = "https://avatars.githubusercontent.com/u/49176046?s=280&v=4" alt="BentoML" width="60"></td>
 		   <td style="border: none;"><img src = "https://e7.pngegg.com/pngimages/399/47/png-clipart-kaggle-predictive-modelling-data-science-business-predictive-analytics-%E6%95%B0%E6%8D%AE-blue-text.png" alt="Kaggle" width="60"></td>
-		   <td style="border: none;"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" alt="OpenCV" width="60"></td>
+		   <td style="border: none;"><img src = "https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="60"></td>
 		   <td style="border: none;"><img src = "https://avatars.githubusercontent.com/u/88676955?s=200&v=4" alt="ZenML" width="60"></td>
 		   <td style="border: none;"><img src = "https://cdn.prod.website-files.com/601064f495f4b4967f921aa9/64246984585c9225aa4e4fc4_databricks.png" alt="Databricks" width="60"></td>
 		  <td style="border: none;"><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/phidata-color.png" alt="PhiData" width="60"></td>		   
-		  <td style="border: none;"><img src = "https://cdn-bdmhh.nitrocdn.com/JNiKLBzGPsfbQJqUQoZqIbUrxBklWopT/assets/images/optimized/rev-ea8753d/objectbox.io/wordpress/wp-content/uploads/2018/06/ObjectBox-Logo-Square-White-Transparent.png" alt="ObjectBox" width="60"></td>
+		  <td style="border: none;"><img src = "https://cdn-bdmhh.nitrocdn.com/JNiKLBzGPsfbQJqUQoZqIbUrxBklWopT/assets/images/optimized/rev-7c98781/objectbox.io/wordpress/wp-content/uploads/2018/06/ObjectBox-Logo-Square-White-Transparent.png" alt="ObjectBox" width="60"></td>
 		  <td style="border: none;"><img src = "https://img.icons8.com/color/512/cursor-ai.png" alt="Cursor" width="60"></td>
 	   </tr>
 	   <tr style="border: none;">
@@ -220,7 +220,7 @@ profile = {
 	   <td style="border: none;"><img src = "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-18-512.png" alt="GCP" width="60"></td>
 	   <td style="border: none;"><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/llamaindex-color.png" alt="LlamaIndex" width="60"></td>
 	   <td style="border: none;"><img src = "https://github.com/SoubhikSinha/SoubhikSinha/blob/main/extras/Screenshot%202025-09-19%20at%2018.23.09.png?raw=true" alt="LangServe" width="60"></td>
-	   <td style="border: none;"><img src = "https://antigravity.google/assets/image/blog/blog-feature-introducing-google-antigravity.png" alt="Google_Antigravity" width="60"></td>
+	   <td style="border: none;"><img src = "https://i.namu.wiki/i/kARx1nP9GHaTktx_4yTI4HXLOjmd3JZaKJkHTXgE2bv4UATWXkVlvoE6ktFO4MFI6yMcV50x6z-pisOEDBOUOQ.webp" alt="Google_Antigravity" width="60"></td>
 	   </tr>
 	   <tr style="border: none;">
 	   </tr>
