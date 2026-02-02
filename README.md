@@ -41,20 +41,27 @@ profile = {
     "work_experience": [
         {
             "idx": "0",
-            "position": "AI Engineer (Intern)",
+            "position": "AI Engineer (GenAI Developer Associate)",
             "organization": "Hexaware Technologies",
-            "location": "REMOTE (headquarters: Jersey City, New Jersey, USA)",
-            "period": "October 2025 - Present"
+            "location": "REMOTE (HQ: Islein, New Jersey, USA)",
+            "period": "February 2026 - Present"
         },
         {
             "idx": "1",
-            "position": "Full Stack Developer (GenAI)",
-            "organization": "Saayam For All",
-            "location": "REMOTE (headquarters: San Jose, California, USA)",
-            "period": "May 2025 - November 2025"
+            "position": "Intern, AI Engineer",
+            "organization": "Hexaware Technologies",
+            "location": "REMOTE (HQ: Iselin, New Jersey, USA)",
+            "period": "October 2025 - February 2026"
         },
         {
             "idx": "2",
+            "position": "Full Stack Developer (GenAI)",
+            "organization": "Saayam For All",
+            "location": "REMOTE (HQ: San Jose, California, USA)",
+            "period": "May 2025 - November 2025"
+        },
+        {
+            "idx": "3",
             "position": "Research Assistant",
             "department_school": "CSE - School of Engineering and Applied Sciences (SEAS)",
             "organization": "University at Buffalo - SUNY",
@@ -63,7 +70,7 @@ profile = {
             "period": "February 2025 - October 2025"
         },
         {
-            "idx": "3",
+            "idx": "4",
             "position": "Graduate Teaching Assistant",
             "department_school": "CSE - School of Engineering and Applied Sciences (SEAS)",
             "organization": "University at Buffalo - SUNY",
@@ -72,7 +79,7 @@ profile = {
             "period": "August 2024 - January 2025"
         },
         {
-            "idx": "4",
+            "idx": "5",
             "position": "Summer Intern - Data Scientist",
             "organization": "NTPC Ltd. (National Capital Power Station)",
             "location": "Dadri, UP, IND",
