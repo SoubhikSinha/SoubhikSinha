@@ -56,13 +56,13 @@ profile = {
         {
             "idx": "2",
             "position": "Full Stack Developer (GenAI)",
-            "organization": "Saayam For All",
+            "organization": "Saayam For All [NGO]",
             "location": "REMOTE (HQ: San Jose, California, USA)",
             "period": "May 2025 - November 2025"
         },
         {
             "idx": "3",
-            "position": "Research Assistant",
+            "position": "Volunteer Research Assistant",
             "department_school": "CSE - School of Engineering and Applied Sciences (SEAS)",
             "organization": "University at Buffalo - SUNY",
             "supervisor": "Dr. Changyou Chen",
@@ -71,7 +71,7 @@ profile = {
         },
         {
             "idx": "4",
-            "position": "Graduate Teaching Assistant",
+            "position": "Graduate Student Assistant",
             "department_school": "CSE - School of Engineering and Applied Sciences (SEAS)",
             "organization": "University at Buffalo - SUNY",
             "supervisor": "Dr. Changyou Chen",
@@ -80,7 +80,7 @@ profile = {
         },
         {
             "idx": "5",
-            "position": "Summer Intern - Data Scientist",
+            "position": "Intern, Data Scientist"
             "organization": "NTPC Ltd. (National Capital Power Station)",
             "location": "Dadri, UP, IND",
             "period": "June 2022 - July 2022"
@@ -103,19 +103,19 @@ profile = {
             "degree": "Bachelor of Technology (B.Tech / BS)",
             "major": "Information Technology",
             "university": "VIT University - Vellore",
-            "location": "Vellore, Tamil Nadu, India",
+            "location": "Vellore, TN, IND",
             "period": "July 2019 - June 2023"
         }
     ],
 
     "fields_of_interests": [
+	    "Agentic AI",
+        "Generative AI",
+        "Large Language Models",
+        "Natural Language Processing",
         "Machine Learning",
         "Deep Learning",
-        "Computer Vision",
-        "Natural Language Processing",
-        "Large Language Models",
-        "Agentic AI",
-        "Generative AI"
+        "Computer Vision"
     ],
 
     "hobbies": [
