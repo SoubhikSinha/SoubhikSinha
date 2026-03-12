@@ -48,7 +48,7 @@ profile = {
         },
         {
             "idx": "1",
-            "position": "Intern, AI Engineer",
+            "position": "Intern, AI Engineer (Analytics Data Science and IoT Engineer)",
             "organization": "Hexaware Technologies",
             "location": "REMOTE (HQ: Iselin, New Jersey, USA)",
             "period": "October 2025 - February 2026"
