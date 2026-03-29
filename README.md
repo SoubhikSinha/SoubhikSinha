@@ -214,7 +214,7 @@ profile = {
 		   <td style="border: none;"><img src = "https://avatars.githubusercontent.com/u/88676955?s=200&v=4" alt="ZenML" width="60"></td>
 		   <td style="border: none;"><img src = "https://cdn.prod.website-files.com/601064f495f4b4967f921aa9/64246984585c9225aa4e4fc4_databricks.png" alt="Databricks" width="60"></td>
 		  <td style="border: none;"><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/phidata-color.png" alt="PhiData" width="60"></td>		   
-		  <td style="border: none;"><img src = "https://cdn-bdmhh.nitrocdn.com/JNiKLBzGPsfbQJqUQoZqIbUrxBklWopT/assets/images/optimized/rev-7c98781/objectbox.io/wordpress/wp-content/uploads/2018/06/ObjectBox-Logo-Square-White-Transparent.png" alt="ObjectBox" width="60"></td>
+		  <td style="border: none;"><img src = "https://cdn-bdmhh.nitrocdn.com/JNiKLBzGPsfbQJqUQoZqIbUrxBklWopT/assets/images/optimized/rev-6eb076d/objectbox.io/wordpress/wp-content/uploads/2018/06/ObjectBox-Logo-Square-White-Transparent.png" alt="ObjectBox" width="60"></td>
 		  <td style="border: none;"><img src = "https://img.icons8.com/color/512/cursor-ai.png" alt="Cursor" width="60"></td>
 	   </tr>
 	   <tr style="border: none;">
