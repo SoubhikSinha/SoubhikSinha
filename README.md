@@ -133,7 +133,7 @@ profile = {
 	<table style="border-collapse: collapse; border: none;">
 		<tr style="border: none;">
 			<td style="border: none;"><img src = "https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python Programming" width="60"></td>
-			<td style="border: none;"><img src = "https://lh3.googleusercontent.com/Xtt-WZqHiV8OjACMMMr6wMdoMGE7bABi-HYujupzevufo1kiHUFQZukI1JILhjItrPNrDWLq6pfd=s600-w600" alt="Gemini" width="60"></td>
+			<td style="border: none;"><img src = "https://static.vecteezy.com/system/resources/thumbnails/046/861/646/small_2x/gemini-icon-on-a-transparent-background-free-png.png" alt="Gemini" width="60"></td>
 			<td style="border: none;"><img src = "https://assets.openalternative.co/tools/typesense/favicon.png?v=1738071663404" alt="typesense" width="60"></td>
 			<td style="border: none;"><img src = "https://cdn.futurepedia.io/ee1c503ee8e96ba578b0b357c233eca97d07336f-400x400.jpg" alt="Stability.ai" width="60"></td>
 			<td style="border: none;"><img src = "https://avatars.githubusercontent.com/u/128686189?s=200&v=4" alt="Chainlit" width="60"></td>
