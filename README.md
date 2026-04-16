@@ -132,14 +132,8 @@ profile = {
 <div align="center">
 	<table style="border-collapse: collapse; border: none;">
 		<tr style="border: none;">
-			<td style="border: none;"><img src="https://img.icons8.com/?size=512&id=40670&format=png" alt="C Programming" width=60"/></td>
-	<td style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++ Programming" width=60"/></td>
 			<td style="border: none;"><img src = "https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python Programming" width="60"></td>
-			<td style="border: none;"><img src = "https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000" alt="R Project" width="60"></td>
-			<td style="border: none;"><img src = "https://img.icons8.com/?size=100&id=62398&format=png&color=000000" alt="MATLAB" width="60"></td>
-			<td style="border: none;"><img src = "https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" alt="Java" width="60"></td>
 			<td style="border: none;"><img src = "https://lh3.googleusercontent.com/Xtt-WZqHiV8OjACMMMr6wMdoMGE7bABi-HYujupzevufo1kiHUFQZukI1JILhjItrPNrDWLq6pfd=s600-w600" alt="Gemini" width="60"></td>
-			<td style="border: none;"><img src = "https://www.myqnap.org/wp-content/uploads/Mage-logo.png" alt="Mage" width="60"></td>
 			<td style="border: none;"><img src = "https://assets.openalternative.co/tools/typesense/favicon.png?v=1738071663404" alt="typesense" width="60"></td>
 			<td style="border: none;"><img src = "https://cdn.futurepedia.io/ee1c503ee8e96ba578b0b357c233eca97d07336f-400x400.jpg" alt="Stability.ai" width="60"></td>
 			<td style="border: none;"><img src = "https://avatars.githubusercontent.com/u/128686189?s=200&v=4" alt="Chainlit" width="60"></td>
@@ -150,9 +144,7 @@ profile = {
 		  <td style="border: none;"><img src = "https://img.icons8.com/?size=100&id=62856&format=png&color=000000" alt="GitHub" width="60"></td>
 		  <td style="border: none;"><img src = "https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="60"></td>
 		  <td style="border: none;"><img src = "https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000" alt="Anaconda" width="60"></td>
-		  <td style="border: none;"><img src = "https://media.licdn.com/dms/image/v2/C4E0BAQFW0NjQTP2Rvg/company-logo_200_200/company-logo_200_200/0/1630627344241/evidently_ai_logo?e=2147483647&v=beta&t=RAHXUIKKgU6CKm1VHw5ZXP7Cse5piPvpM0D1tLzX5f8" alt="Evidently AI" width="60"></td>
 		  <td style="border: none;"><img src = "https://i1.sndcdn.com/avatars-5kMd7CfkeKR970IM-HVYgHQ-t1080x1080.jpg" alt="OpenAI" width="60"></td>
-		  <td style="border: none;"><img src = "https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-02-256.png" alt="Excel" width="60"></td>
 		  <td style="border: none;"><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" alt=LangGraph" width="60"></td>
 		  <td style="border: none;"><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langsmith.png" alt="LangSmith" width="60"></td>
 		  <td style="border: none;"><img src = "https://avatars.githubusercontent.com/u/34724717?s=280&v=4" alt="SerpAPI" width="60"></td>
@@ -161,8 +153,6 @@ profile = {
 			  <td style="border: none;"><img src = "https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" alt="Scikit-Learn" width="60"></td>
 			  <td style="border: none;"><img src = "https://miro.medium.com/v2/resize:fit:1184/0*zKRz1UgqpOZ4bvuA" alt="Python - NLTK" width="60"></td>
 			  <td style="border: none;"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/1200px-SpaCy_logo.svg.png" alt="SpaCy" width="60"></td>
-			  <td style="border: none;"><img src = "https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="MongoDB" width="60"></td>
-			  <td style="border: none;"><img src = "https://miro.medium.com/v2/resize:fit:750/1*x5D-t_6hTxA_5YDtAZJZvw.jpeg" alt="Oracle db 11g" width="60"></td>
 			  <td style="border: none;"><img src = "https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" width="60"></td>
 			  <td style="border: none;"><img src = "https://logosandtypes.com/wp-content/uploads/2020/07/kafka.png" alt="Apache-Kafka" width="60"></td>
 			  <td style="border: none;"><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQH_R1Ms8CC6U_KrjQ-neWuMnNr9pav89HcA&s" alt="ChromaDB" width="60"></td>
@@ -170,49 +160,27 @@ profile = {
 			  <td style="border: none;"><img src = "https://media.licdn.com/dms/image/v2/D560BAQGxuATyknaEgQ/company-logo_200_200/company-logo_200_200/0/1731629952660/langflow_logo?e=2147483647&v=beta&t=OHt-nITurKE4yKq61fKliTVERZteexXJ95QazNmbqaw" alt="LangFlow" width="60"></td>
 	   </tr>
 	   <tr style="border: none;">
-		   <td style="border: none;"><img src = "https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau" width="60"></td>
-		   <td style="border: none;"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" width="60"></td>
-		   <td style="border: none;"><img src = "https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="Seaborn" width="60"></td>
 		   <td style="border: none;"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="Keras" width="60"></td>
 		   <td style="border: none;"><img src = "https://hackr.io/tutorials/learn-tensorflow/og_image" alt="Tensorflow" width="60"></td>
-		   <td style="border: none;"><img src = "https://logowik.com/content/uploads/images/cassandra4070.logowik.com.webp" alt="Cassandra" width="60"></td>
-		   <td style="border: none;"><img src = "https://airflow.apache.org/docs/apache-airflow/1.10.15/_images/pin_large.png" alt="Apache_Airflow" width="60"></td>
-		   <td style="border: none;"><img src = "https://cdn3d.iconscout.com/3d/free/thumb/free-sqlite-3d-icon-png-download-7578006.png?f=webp" alt="SQLlite" width="60"></td>
 		   <td style="border: none;"><img src = "https://cdn.freebiesupply.com/logos/large/2x/elastic-elasticsearch-logo-svg-vector.svg" alt="Elasticsearch" width="60"></td>
-		   <td style="border: none;"><img src = "https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript" width="60"></td>
 	   </tr>
 	   <tr style="border: none;">
-		   <td><img src = "https://i0.wp.com/dbaontap.com/wp-content/uploads/2015/11/json-logo.png?fit=690%2C330&ssl=1" alt="JSON" width="60"></td>
-		   <td><img src = "https://miro.medium.com/v2/resize:fit:394/1*Z_vXwV0SPudOAdlZnoAkWA.png" alt="NVIDIA CUDA" width="60"></td>
-		   <td style="border: none;"><img src = "https://w7.pngwing.com/pngs/503/133/png-transparent-ubuntu-plain-logo-icon.png" alt="Ubuntu" width="60"></td>
-		   <td style="border: none;"><img src = "https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-256.png" alt="Linux" width="60"></td>
-		   <td style="border: none;"><img src = "https://cdn.freebiesupply.com/logos/large/2x/hadoop-logo-black-and-white.png" alt="Hadoop" width="60"></td>
 		   <td style="border: none;"><img src = "https://pbs.twimg.com/profile_images/1813965160702451712/yXV1vRhr_400x400.jpg" alt="PyTorch" width="60"></td>
-		   <td style="border: none;"><img src = "https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django" width="60"></td>
 		   <td style="border: none;"><img src = "https://media.licdn.com/dms/image/v2/D560BAQHlmuT3wYkEGA/company-logo_200_200/company-logo_200_200/0/1687162589491?e=2147483647&v=beta&t=r2snE3kC6Pcv-O8PWM7DtxFt6OrWIN5aNwmxenrzkuc" alt="Vext" width="60"></td>
 		   <td style="border: none;"><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/mistral-color.png" alt="Mistral" width="60"></td>
 		   <td style="border: none;"><img src = "https://artwork.lfaidata.foundation/projects/flyte/icon/color/flyte-icon-color.png" alt="Flyte" width="60"></td>
 	   </tr>
 	   <tr style="border: none;">
-		   <td style="border: none;"><img src = "https://i0.wp.com/begincodingnow.com/wp-content/uploads/2023/08/colab_logo.png?fit=260%2C160&ssl=1" alt="Google Colab" width="60"></td>
-		   <td style="border: none;"><img src = "https://w7.pngwing.com/pngs/1/687/png-transparent-apache-spark-apache-http-server-scala-apache-software-foundation-data-processing-others-miscellaneous-text-orange.png" alt="Apache Spark" width="60"></td>
 		   <td style="border: none;"><img src = "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" width="60"></td>
-		   <td style="border: none;"><img src = "https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" alt="MySQL" width="60"></td>
-		   <td style="border: none;"><img src = "https://numfocus.org/wp-content/uploads/2016/07/jupyter-logo-300.png" alt="Jupyter" width="60"></td>
-		   <td style="border: none;"><img src = "https://i0.wp.com/teech.com.br/wp-content/uploads/2020/01/VsCode.png?fit=512%2C512" alt="VS-Code" width="60"></td>
 		  <td style="border: none;"><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png" alt="Ollama" width="60"></td>
 		  <td style="border: none;"><img src = "https://cdn.sanity.io/images/bbnkhnhl/production/eedfd7562752ca78ce5d3ff9c57a3d8ef39f99b9-666x666.svg?w=1920&q=75&fit=clip&auto=format" alt="DataStax" width="60"></td>
 		  <td style="border: none;"><img src = "https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="60"></td>
 		  <td style="border: none;"><img src = "https://media.licdn.com/dms/image/v2/D560BAQFyGRIuF2bqeQ/company-logo_200_200/B56ZfTe2EtHoAI-/0/1751599768258/crawl4ai_logo?e=2147483647&v=beta&t=skhRct8O4VaW42IwD7eC9Eqc9Pbavt7n6q7QgaJTQE8" alt="Crawl4AI" width="60"></td>
 	   </tr>
 	   <tr style="border: none;">
-		   <td style="border: none;"><img src = "https://w7.pngwing.com/pngs/801/880/png-transparent-rstudio-macos-r-blue-text-trademark.png" alt="RStudio" width="60"></td>
-		   <td style="border: none;"><img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUiNwNvWfATiDCwOeYGDWDbIauxNSjZJHEdJKkb9dH3_dk9e8fRbk_K3z8iKuy_HkNUzfSu7S9V2fO_T6vWEF6wVhOPbHyTzvrlEUKVP649ngKDHReYCs77uVUFK-kSTpEekq8T6b-Mqjj/s1600/code+block+logo.jpg" alt="CodeBlocks" width="60"></td>
 		   <td style="border: none;"><img src = "https://avatars.githubusercontent.com/u/49176046?s=280&v=4" alt="BentoML" width="60"></td>
-		   <td style="border: none;"><img src = "https://e7.pngegg.com/pngimages/399/47/png-clipart-kaggle-predictive-modelling-data-science-business-predictive-analytics-%E6%95%B0%E6%8D%AE-blue-text.png" alt="Kaggle" width="60"></td>
 		   <td style="border: none;"><img src = "https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="60"></td>
 		   <td style="border: none;"><img src = "https://avatars.githubusercontent.com/u/88676955?s=200&v=4" alt="ZenML" width="60"></td>
-		   <td style="border: none;"><img src = "https://cdn.prod.website-files.com/601064f495f4b4967f921aa9/64246984585c9225aa4e4fc4_databricks.png" alt="Databricks" width="60"></td>
 		  <td style="border: none;"><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/phidata-color.png" alt="PhiData" width="60"></td>		   
 		  <td style="border: none;"><img src = "https://cdn-bdmhh.nitrocdn.com/JNiKLBzGPsfbQJqUQoZqIbUrxBklWopT/assets/images/optimized/rev-6eb076d/objectbox.io/wordpress/wp-content/uploads/2018/06/ObjectBox-Logo-Square-White-Transparent.png" alt="ObjectBox" width="60"></td>
 		  <td style="border: none;"><img src = "https://img.icons8.com/color/512/cursor-ai.png" alt="Cursor" width="60"></td>
@@ -233,6 +201,10 @@ profile = {
 	   </tr>
 	</table>
 </div>
+
+<br>
+
+
 
 <br>
 
