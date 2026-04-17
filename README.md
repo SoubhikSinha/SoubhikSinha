@@ -6,13 +6,24 @@
   Let’s connect <img src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" alt="Waving Hand" width="35" height="35">  and have a chat <img src="https://media.tenor.com/XTCPYh5SlzoAAAAM/discord-typing.gif" alt="Waving Hand" width="30" height="20"><br>Because what’s GitHub without collaboration? <img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" alt="Coding" width="40" height="40">  
 </h2>
 
-<br>
-
 <div align="center">
-<a href="https://www.linkedin.com/in/sinhasoubhik/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" width="60" height="60"></a>&nbsp;<a href="mailto:work.soubhiksinha@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_google-plus-512.png" width="60" height="60"></a>&nbsp;<a href="https://github.com/SoubhikSinha" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_GitHub-512.png" width="60" height="60"></a>&nbsp;<a href="https://www.instagram.com/the_somnolent_mind_/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-512.png" width="60" height="60"></a>
+	<a href="https://www.linkedin.com/in/sinhasoubhik/" target="_blank">
+		<img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" width="60" height="60">
+	</a>
+	&nbsp;
+	<a href="mailto:work.soubhiksinha@gmail.com">
+		<img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_google-plus-512.png" width="60" height="60">
+	</a>
+	&nbsp;
+	<a href="https://github.com/SoubhikSinha" target="_blank">
+		<img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_GitHub-512.png" width="60" height="60">
+	</a>
+	&nbsp;
+	<a href="https://www.instagram.com/the_somnolent_mind_/" target="_blank">
+		<img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-512.png" width="60" height="60">
+	</a>
 </div>
 
-<br>
 <br>
 
 ## A bit about myself <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="50" height="50"><br>
@@ -138,7 +149,7 @@ profile = {
 		  <tr style="border: none;">
 			  <td style="border: none;"><img src = "https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" alt="Scikit-Learn" width="60"></td>
 			  <td style="border: none;"><img src = "https://miro.medium.com/v2/resize:fit:1184/0*zKRz1UgqpOZ4bvuA" alt="Python - NLTK" width="60"></td>
-			  <td style="border: none;"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/1200px-SpaCy_logo.svg.png" alt="SpaCy" width="60"></td>
+			  <td style="border: none;"><img src = "https://res.cloudinary.com/apideck/icons/spacy-io" alt="SpaCy" width="60"></td>
 			  <td style="border: none;"><img src = "https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" width="60"></td>
 			  <td style="border: none;"><img src = "https://logosandtypes.com/wp-content/uploads/2020/07/kafka.png" alt="Apache-Kafka" width="60"></td>
 			  <td style="border: none;"><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQH_R1Ms8CC6U_KrjQ-neWuMnNr9pav89HcA&s" alt="ChromaDB" width="60"></td>
@@ -146,7 +157,7 @@ profile = {
 			  <td style="border: none;"><img src = "https://media.licdn.com/dms/image/v2/D560BAQGxuATyknaEgQ/company-logo_200_200/company-logo_200_200/0/1731629952660/langflow_logo?e=2147483647&v=beta&t=OHt-nITurKE4yKq61fKliTVERZteexXJ95QazNmbqaw" alt="LangFlow" width="60"></td>
 	   </tr>
 	   <tr style="border: none;">
-		   <td style="border: none;"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="Keras" width="60"></td>
+		   <td style="border: none;"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/500px-Keras_logo.svg.png" alt="Keras" width="60"></td>
 		   <td style="border: none;"><img src = "https://hackr.io/tutorials/learn-tensorflow/og_image" alt="Tensorflow" width="60"></td>
 		   <td style="border: none;"><img src = "https://cdn.freebiesupply.com/logos/large/2x/elastic-elasticsearch-logo-svg-vector.svg" alt="Elasticsearch" width="60"></td>
 	   </tr>
