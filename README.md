@@ -9,21 +9,7 @@
 <br>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/sinhasoubhik/" target="_blank">
-      <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" alt="LinkedIn Profile" width="60" height="60">
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:work.soubhiksinha@gmail.com">
-      <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_google-plus-512.png" alt="Gmail" width="60" height="60">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/SoubhikSinha" target="_blank">
-      <img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_GitHub-512.png" alt="GitHub" width="60" height="60">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.instagram.com/the_somnolent_mind_/" target="_blank">
-      <img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-512.png" alt="Instagram" width="60" height="60">
-    </a>
+<a href="https://www.linkedin.com/in/sinhasoubhik/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" width="60" height="60"></a>&nbsp;<a href="mailto:work.soubhiksinha@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_google-plus-512.png" width="60" height="60"></a>&nbsp;<a href="https://github.com/SoubhikSinha" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_GitHub-512.png" width="60" height="60"></a>&nbsp;<a href="https://www.instagram.com/the_somnolent_mind_/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-512.png" width="60" height="60"></a>
 </div>
 
 <br>
@@ -80,7 +66,7 @@ profile = {
         },
         {
             "idx": "5",
-            "position": "Intern, Data Scientist"
+            "position": "Intern, Data Scientist",
             "organization": "NTPC Ltd. (National Capital Power Station)",
             "location": "Dadri, UP, IND",
             "period": "June 2022 - July 2022"
@@ -109,7 +95,7 @@ profile = {
     ],
 
     "fields_of_interests": [
-	    "Agentic AI",
+        "Agentic AI",
         "Generative AI",
         "Large Language Models",
         "Natural Language Processing",
@@ -203,9 +189,6 @@ profile = {
 </div>
 
 <br>
-
-
-
 <br>
 
 ![snake gif](https://github.com/SoubhikSinha/SoubhikSinha/blob/output/github-snake-dark.svg)
