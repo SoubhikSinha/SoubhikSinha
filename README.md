@@ -106,9 +106,8 @@ profile = {
 
     "hobbies": [
         "Painting 🎨",
-        "Cycling 🚴",
-        "Walking 🚶",
-        "Jogging 🏃",
+        "Road Trips 🛣️",
+        "Kayaking 🛶",
         "Gym & Fitness 🏋️",
         "Cooking 🥘"
     ]
@@ -123,6 +122,7 @@ profile = {
 			<td style="border: none;"><img src = "https://assets.openalternative.co/tools/typesense/favicon.png?v=1738071663404" alt="typesense" width="60"></td>
 			<td style="border: none;"><img src = "https://cdn.futurepedia.io/ee1c503ee8e96ba578b0b357c233eca97d07336f-400x400.jpg" alt="Stability.ai" width="60"></td>
 			<td style="border: none;"><img src = "https://avatars.githubusercontent.com/u/128686189?s=200&v=4" alt="Chainlit" width="60"></td>
+			<td style="border: none;"><img src = "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mk8aoa97px9xhi723o1.jpg" alt="Streamlit" width="60"></td>
 	   </tr>
 	   <tr style="border: none;">
 		  <td style="border: none;"><img src = "https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" alt="Azure" width="60"></td>
@@ -173,7 +173,6 @@ profile = {
 	   </tr>
 	   <tr style="border: none;">
 	   <td style="border: none;"><img src = "https://dyltqmyl993wv.cloudfront.net/assets/stacks/mlflow/img/mlflow-stack-220x234.png" alt="MLflow" width="60"></td>
-	   <td style="border: none;"><img src = "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mk8aoa97px9xhi723o1.jpg" alt="Streamlit" width="60"></td>
 	   <td style="border: none;"><img src = "https://upload.wikimedia.org/wikipedia/commons/a/af/Data_Version_Control._Official_Logo_by_Iterative.ai.png" alt="DVC" width="60"></td>
 	   <td style="border: none;"><img src = "https://dlab.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/hugging_face_0.png?itok=EcNqVjG9&timestamp=1639512837" alt="HuggingFace" width="60"></td>
 	   <td style="border: none;"><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" alt="LangChain" width="60"></td>
@@ -190,6 +189,8 @@ profile = {
 
 <br>
 <br>
+
+
 
 ![snake gif](https://github.com/SoubhikSinha/SoubhikSinha/blob/output/github-snake-dark.svg)
 
