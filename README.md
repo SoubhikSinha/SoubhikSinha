@@ -106,10 +106,11 @@ profile = {
 
     "hobbies": [
         "Painting 🎨",
-        "Road Trips 🛣️",
+        "Road Tripping 🛣️",
         "Kayaking 🛶",
         "Gym & Fitness 🏋️",
-        "Cooking 🥘"
+        "Cooking 🥘",
+        "Travelling ✈️"
     ]
 }
 ```
