@@ -6,23 +6,12 @@
   Let’s connect <img src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif" alt="Waving Hand" width="35" height="35">  and have a chat <img src="https://media.tenor.com/XTCPYh5SlzoAAAAM/discord-typing.gif" alt="Waving Hand" width="30" height="20"><br>Because what’s GitHub without collaboration? <img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" alt="Coding" width="40" height="40">  
 </h2>
 
-<div align="center">
-	<a href="https://www.linkedin.com/in/sinhasoubhik/" target="_blank">
-		<img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" width="60" height="60">
-	</a>
-	&nbsp;
-	<a href="mailto:work.soubhiksinha@gmail.com">
-		<img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_google-plus-512.png" width="60" height="60">
-	</a>
-	&nbsp;
-	<a href="https://github.com/SoubhikSinha" target="_blank">
-		<img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_GitHub-512.png" width="60" height="60">
-	</a>
-	&nbsp;
-	<a href="https://www.instagram.com/the_somnolent_mind_/" target="_blank">
-		<img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-512.png" width="60" height="60">
-	</a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sinhasoubhik/"><img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" width="60" height="60" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:work.soubhiksinha@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_google-plus-512.png" width="60" height="60" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/SoubhikSinha"><img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_GitHub-512.png" width="60" height="60" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/the_somnolent_mind_/"><img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-512.png" width="60" height="60" alt="Instagram" /></a>
+</p>
 
 <br>
 
