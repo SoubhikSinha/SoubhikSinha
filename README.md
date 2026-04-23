@@ -115,83 +115,98 @@ profile = {
 }
 ```
 
-<div align="center">
-	<table style="border-collapse: collapse; border: none;">
-		<tr style="border: none;">
-			<td style="border: none;"><img src = "https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python Programming" width="60"></td>
-			<td style="border: none;"><img src = "https://static.vecteezy.com/system/resources/thumbnails/046/861/646/small_2x/gemini-icon-on-a-transparent-background-free-png.png" alt="Gemini" width="60"></td>
-			<td style="border: none;"><img src = "https://assets.openalternative.co/tools/typesense/favicon.png?v=1738071663404" alt="typesense" width="60"></td>
-			<td style="border: none;"><img src = "https://cdn.futurepedia.io/ee1c503ee8e96ba578b0b357c233eca97d07336f-400x400.jpg" alt="Stability.ai" width="60"></td>
-			<td style="border: none;"><img src = "https://avatars.githubusercontent.com/u/128686189?s=200&v=4" alt="Chainlit" width="60"></td>
-			<td style="border: none;"><img src = "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mk8aoa97px9xhi723o1.jpg" alt="Streamlit" width="60"></td>
-	   </tr>
-	   <tr style="border: none;">
-		  <td style="border: none;"><img src = "https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" alt="Azure" width="60"></td>
-		  <td style="border: none;"><img src = "https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000" alt="AWS" width="60"></td>
-		  <td style="border: none;"><img src = "https://img.icons8.com/?size=100&id=62856&format=png&color=000000" alt="GitHub" width="60"></td>
-		  <td style="border: none;"><img src = "https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="60"></td>
-		  <td style="border: none;"><img src = "https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000" alt="Anaconda" width="60"></td>
-		  <td style="border: none;"><img src = "https://i1.sndcdn.com/avatars-5kMd7CfkeKR970IM-HVYgHQ-t1080x1080.jpg" alt="OpenAI" width="60"></td>
-		  <td style="border: none;"><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" alt=LangGraph" width="60"></td>
-		  <td style="border: none;"><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langsmith.png" alt="LangSmith" width="60"></td>
-		  <td style="border: none;"><img src = "https://avatars.githubusercontent.com/u/34724717?s=280&v=4" alt="SerpAPI" width="60"></td>
-		  </tr>
-		  <tr style="border: none;">
-			  <td style="border: none;"><img src = "https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" alt="Scikit-Learn" width="60"></td>
-			  <td style="border: none;"><img src = "https://miro.medium.com/v2/resize:fit:1184/0*zKRz1UgqpOZ4bvuA" alt="Python - NLTK" width="60"></td>
-			  <td style="border: none;"><img src = "https://res.cloudinary.com/apideck/icons/spacy-io" alt="SpaCy" width="60"></td>
-			  <td style="border: none;"><img src = "https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" width="60"></td>
-			  <td style="border: none;"><img src = "https://logosandtypes.com/wp-content/uploads/2020/07/kafka.png" alt="Apache-Kafka" width="60"></td>
-			  <td style="border: none;"><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQH_R1Ms8CC6U_KrjQ-neWuMnNr9pav89HcA&s" alt="ChromaDB" width="60"></td>
-			  <td style="border: none;"><img src = "https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-svg-png-download-3030217.png?f=webp" alt="Postman" width="60"></td>
-			  <td style="border: none;"><img src = "https://media.licdn.com/dms/image/v2/D560BAQGxuATyknaEgQ/company-logo_200_200/company-logo_200_200/0/1731629952660/langflow_logo?e=2147483647&v=beta&t=OHt-nITurKE4yKq61fKliTVERZteexXJ95QazNmbqaw" alt="LangFlow" width="60"></td>
-	   </tr>
-	   <tr style="border: none;">
-		   <td style="border: none;"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/500px-Keras_logo.svg.png" alt="Keras" width="60"></td>
-		   <td style="border: none;"><img src = "https://hackr.io/tutorials/learn-tensorflow/og_image" alt="Tensorflow" width="60"></td>
-		   <td style="border: none;"><img src = "https://cdn.freebiesupply.com/logos/large/2x/elastic-elasticsearch-logo-svg-vector.svg" alt="Elasticsearch" width="60"></td>
-	   </tr>
-	   <tr style="border: none;">
-		   <td style="border: none;"><img src = "https://pbs.twimg.com/profile_images/1813965160702451712/yXV1vRhr_400x400.jpg" alt="PyTorch" width="60"></td>
-		   <td style="border: none;"><img src = "https://media.licdn.com/dms/image/v2/D560BAQHlmuT3wYkEGA/company-logo_200_200/company-logo_200_200/0/1687162589491?e=2147483647&v=beta&t=r2snE3kC6Pcv-O8PWM7DtxFt6OrWIN5aNwmxenrzkuc" alt="Vext" width="60"></td>
-		   <td style="border: none;"><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/mistral-color.png" alt="Mistral" width="60"></td>
-		   <td style="border: none;"><img src = "https://artwork.lfaidata.foundation/projects/flyte/icon/color/flyte-icon-color.png" alt="Flyte" width="60"></td>
-	   </tr>
-	   <tr style="border: none;">
-		   <td style="border: none;"><img src = "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" width="60"></td>
-		  <td style="border: none;"><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png" alt="Ollama" width="60"></td>
-		  <td style="border: none;"><img src = "https://cdn.sanity.io/images/bbnkhnhl/production/eedfd7562752ca78ce5d3ff9c57a3d8ef39f99b9-666x666.svg?w=1920&q=75&fit=clip&auto=format" alt="DataStax" width="60"></td>
-		  <td style="border: none;"><img src = "https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="60"></td>
-		  <td style="border: none;"><img src = "https://media.licdn.com/dms/image/v2/D560BAQFyGRIuF2bqeQ/company-logo_200_200/B56ZfTe2EtHoAI-/0/1751599768258/crawl4ai_logo?e=2147483647&v=beta&t=skhRct8O4VaW42IwD7eC9Eqc9Pbavt7n6q7QgaJTQE8" alt="Crawl4AI" width="60"></td>
-	   </tr>
-	   <tr style="border: none;">
-		   <td style="border: none;"><img src = "https://avatars.githubusercontent.com/u/49176046?s=280&v=4" alt="BentoML" width="60"></td>
-		   <td style="border: none;"><img src = "https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="60"></td>
-		   <td style="border: none;"><img src = "https://avatars.githubusercontent.com/u/88676955?s=200&v=4" alt="ZenML" width="60"></td>
-		  <td style="border: none;"><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/phidata-color.png" alt="PhiData" width="60"></td>		   
-		  <td style="border: none;"><img src = "https://cdn-bdmhh.nitrocdn.com/JNiKLBzGPsfbQJqUQoZqIbUrxBklWopT/assets/images/optimized/rev-6eb076d/objectbox.io/wordpress/wp-content/uploads/2018/06/ObjectBox-Logo-Square-White-Transparent.png" alt="ObjectBox" width="60"></td>
-		  <td style="border: none;"><img src = "https://img.icons8.com/color/512/cursor-ai.png" alt="Cursor" width="60"></td>
-	   </tr>
-	   <tr style="border: none;">
-	   <td style="border: none;"><img src = "https://dyltqmyl993wv.cloudfront.net/assets/stacks/mlflow/img/mlflow-stack-220x234.png" alt="MLflow" width="60"></td>
-	   <td style="border: none;"><img src = "https://upload.wikimedia.org/wikipedia/commons/a/af/Data_Version_Control._Official_Logo_by_Iterative.ai.png" alt="DVC" width="60"></td>
-	   <td style="border: none;"><img src = "https://dlab.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/hugging_face_0.png?itok=EcNqVjG9&timestamp=1639512837" alt="HuggingFace" width="60"></td>
-	   <td style="border: none;"><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" alt="LangChain" width="60"></td>
-	   <td style="border: none;"><img src = "https://avatars.githubusercontent.com/u/54333248?s=200&v=4" alt="Pinecone" width="60"></td>
-	   <td style="border: none;"><img src = "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-18-512.png" alt="GCP" width="60"></td>
-	   <td style="border: none;"><img src = "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/llamaindex-color.png" alt="LlamaIndex" width="60"></td>
-	   <td style="border: none;"><img src = "https://github.com/SoubhikSinha/SoubhikSinha/blob/main/extras/Screenshot%202025-09-19%20at%2018.23.09.png?raw=true" alt="LangServe" width="60"></td>
-	   <td style="border: none;"><img src = "https://i.namu.wiki/i/kARx1nP9GHaTktx_4yTI4HXLOjmd3JZaKJkHTXgE2bv4UATWXkVlvoE6ktFO4MFI6yMcV50x6z-pisOEDBOUOQ.webp" alt="Google_Antigravity" width="60"></td>
-	   </tr>
-	   <tr style="border: none;">
-	   </tr>
-	</table>
-</div>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=306998"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/SerpAPI-4E7CF2?style=for-the-badge&logo=serpapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/Microsoft-Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Google-Cloud-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flyte-5E3BEE?style=for-the-badge&logo=flyte&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white"/>
+<img src="https://img.shields.io/badge/BentoML-00A67E?style=for-the-badge&logo=bentoml&logoColor=white"/>
+<img src="https://img.shields.io/badge/ZenML-6C63FF?style=for-the-badge&logo=zenml&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLTK-154F6B?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-0B1F3A?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/Sentence--Transformers-0B1F3A?style=for-the-badge&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/Evidently-AI-6C63FF?style=for-the-badge&logo=evidently&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache-Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-GPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mistral-FF6F3C?style=for-the-badge&logo=mistralai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stability-AI-3A76F0?style=for-the-badge&logo=stabilityai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/Typesense-FF6D2D?style=for-the-badge&logo=typesense&logoColor=white"/>
+<img src="https://img.shields.io/badge/ObjectBox-00A98F?style=for-the-badge&logo=objectbox&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge&logo=chroma&logoColor=white"/>
+<img src="https://img.shields.io/badge/DataStax-0C7CBA?style=for-the-badge&logo=datastax&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache-Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white"/>
+<img src="https://img.shields.io/badge/PhiData-FF6A00?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LlamaIndex-8E75FF?style=for-the-badge&logo=llamaindex&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-2E9FFF?style=for-the-badge&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge&logo=meta&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangFlow-7B61FF?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangSmith-FF4B4B?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangServe-4A90E2?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chainlit-1C1C1C?style=for-the-badge&logo=chainlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Crawl4AI-0A66C2?style=for-the-badge&logoColor=white"/>
+<br>
+
+</p>
 
 <br>
 <br>
-
-
 
 ![snake gif](https://github.com/SoubhikSinha/SoubhikSinha/blob/output/github-snake-dark.svg)
 
