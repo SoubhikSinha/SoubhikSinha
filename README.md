@@ -176,7 +176,6 @@ profile = {
 <img src="https://img.shields.io/badge/Mistral-FF6F3C?style=for-the-badge&logo=mistralai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
 <img src="https://img.shields.io/badge/Stability-AI-3A76F0?style=for-the-badge&logo=stabilityai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <br>
 
