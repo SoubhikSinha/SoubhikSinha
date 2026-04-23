@@ -74,19 +74,18 @@ Engineered a hybrid DenseNet–Vision Transformer architecture for chest disease
 # Tech Stack
 <p align="center">
 
-### Core Systems
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=306998"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flyte-5E3BEE?style=for-the-badge&logo=flyte&logoColor=white"/>
+<br>
 
-### Cloud & Infra
 <img src="https://img.shields.io/badge/Microsoft-Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<br>
 
-### GenAI & ML
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-0B1F3A?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
 <img src="https://img.shields.io/badge/OpenAI-GPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
