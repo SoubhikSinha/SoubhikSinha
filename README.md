@@ -88,11 +88,13 @@ Engineered a hybrid DenseNet–Vision Transformer architecture for chest disease
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-0B1F3A?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<br>
+
 <img src="https://img.shields.io/badge/OpenAI-GPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-0F9D58?style=for-the-badge&logo=graphql&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge&logo=protocolsdotio&logoColor=white"/>
 </p>
 
 # What I Care About
