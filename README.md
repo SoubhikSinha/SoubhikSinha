@@ -22,12 +22,40 @@ AI Engineer at Hexaware, owning the infrastructure layer under a production GenA
 - Built a Health Status API aggregating real-time status across **16 service dependencies** (Kafka, Flyte, Azure OpenAI, Azure AI Search, Redis, Blob Storage)
 - Owned database + Blob Storage design for a vendor ingestion system used by **100+ engineers**; built the migration runbook now used as team standard (1M+ docs, zero data loss)
 
+
 ## Tech Stack
 
-**Core:** Python · PyTorch · LangChain / LangGraph
-**GenAI:** RAG · LLM Evaluation · Azure OpenAI · Elasticsearch
-**Infra & Data:** PostgreSQL · Kafka · Flyte · Redis · Azure Blob Storage
-**Serving:** FastAPI · ONNX · Docker
+**Core** : 
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"/>
+</p>
+
+**GenAI**
+<p>
+<img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM%20Evaluation-4B8BBE?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+</p>
+
+**Infra & Data**
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flyte-4300FA?style=for-the-badge&logo=flyte&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
+
+**Serving**
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 ## Featured Work
 
